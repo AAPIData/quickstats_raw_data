@@ -3,11 +3,11 @@ library(tidycensus)
 library(glue)
 poverty_total_updater <- function(){
   # Definitions -------------------------------------------------------------
-  pov_vars <- c("B17001D_002","B17001E_002","B17001B_002","B17001I_002","B17001H_002")
+
+  pov_vars <- c("B17001D_002","B17001E_002","B17001B_002","B17001I_002","B17001H_002") 
   totals <- c("B17001D_001","B17001E_001","B17001B_001","B17001I_001","B17001H_001")
   groups <- c("Asian Alone", "NHPI ALone","Black Alone", "Hispanic Alone", "White Alone")
   argList <-  list(pov_vars,totals,groups)     
-
 
 
   pov_grabber <- function(pov_vars, totals, groups){

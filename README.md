@@ -24,3 +24,9 @@ Quickstats Raw Data - AAPI Data
 - nativity: B05003D/E
 - LEP: B16005D/E
 - poverty: B17001D/E
+
+
+# File notes:
+
+1. `TEST_full_update.r`: This is just a test script, all it does right now is load the `final_merger` function and then runs it
+2. `final_merger.r`: I think this could be the skelton of how the final merge process will work.
