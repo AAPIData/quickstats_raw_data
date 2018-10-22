@@ -1,7 +1,6 @@
-library(tidyverse)
-library(tidycensus)
-library(glue)
+
 poverty_total_updater <- function(){
+  
   # Definitions -------------------------------------------------------------
 
   pov_vars <- c("B17001D_002","B17001E_002","B17001B_002","B17001I_002","B17001H_002") 
@@ -20,7 +19,7 @@ poverty_total_updater <- function(){
       final_state<- temp_dta %>%
         mutate(estimate = case_when(moe>(.25*estimate) ~ NA_real_,
                                     TRUE ~ estimate),
-               summary_est = case_when(moe>(.25*summary_est) ~ NA_real_,
+               summary_est = case_when(summary_moe>(.25*summary_est) ~ NA_real_,
                                        TRUE ~ summary_est)) %>% 
         select(NAME,estimate,summary_est) %>% 
         mutate(count = estimate,
