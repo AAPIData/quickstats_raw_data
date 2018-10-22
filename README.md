@@ -7,3 +7,7 @@ Quickstats Raw Data - AAPI Data
 4. columns should include: state, county/district, group, topic, topic_type, estimate_type, estimate
 5. name each csv file as "state.csv", "county.csv", ect
 6. store all csv files under raw_cleanup folder
+
+## Margin of Error Rule
+
+- Use `tidycensus` to pull down margin of error for each count, if the MOE for a count is greater than 25% of the actual estimate, we need to drop it because it is unreliable.
