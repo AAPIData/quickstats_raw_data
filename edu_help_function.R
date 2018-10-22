@@ -1,5 +1,10 @@
-
-edu_help_function <- function(geo, year){
+edu_total_updater <- function(){
+  
+  geo <- c("state", "county", "congressional district")
+  year <- c(2016, 2016, 2016)
+  argList <- list(geo, year)
+  
+  edu_grabber <- function(geo, year){
 ########################
 #categories for edu
 edu_cat4 <- c("Total!!Male!!Less than high school diploma", 
@@ -49,15 +54,13 @@ tbl <- table %>%
          estimate, est_moe, summary_est, 
          summary_moe) %>% unique() %>% 
   ungroup() %>% 
-  mutate(prop = case_when(
-    summary_est >0 ~(estimate / summary_est),
-    TRUE ~0)) %>% 
-  mutate(prop = case_when(
-    est_moe <= 0.25*estimate ~prop,
-    TRUE ~NA_real_)) %>%
   mutate(estimate = case_when(
     est_moe <= 0.25*estimate ~estimate,
     TRUE ~NA_real_)) %>% 
+  mutate(summary_est = case_when(
+    summary_moe <= 0.25*summary_est ~summary_est,
+    TRUE ~NA_real_)) %>% 
+  mutate(prop = estimate / summary_est) %>% 
   select(-est_moe, -summary_est, -summary_moe)
 
 tbl_count <- tbl %>% select(-prop) %>% 
@@ -67,8 +70,11 @@ tbl_prop <- tbl %>% select(-estimate) %>%
   rename(estimate = prop)
 tbl_final <- rbind(tbl_count,tbl_prop)
 tbl_final <- tbl_final %>% 
-  mutate(topic="edu")
+  mutate(topic="edu", geo=geo)
 
 return(tbl_final)
-
+  }
+  
+  final <- pmap_dfr(argList,edu_grabber) # Running pov_grabber
 }
+
