@@ -11,3 +11,15 @@ Quickstats Raw Data - AAPI Data
 ## Margin of Error Rule
 
 - Use `tidycensus` to pull down margin of error for each count, if the MOE for a count is greater than 25% of the actual estimate, we need to drop it because it is unreliable.
+
+## Tables for each topic
+Education C15002D/E
+Detailed pop Alone B02015, B02016
+Detailed pop Alone B02018, B02019
+pop Alone - var_list <- c("B02001_005", "B02001_006", "B03002_003",
+                    "B02001_003", "B03002_012")
+pop Combo - var_list <- c("B02011_001", "B02012_001", "B03002_003",
+                    "B02001_003", "B03002_012")  
+nativity B05003D/E
+LEP B16005D/E
+poverty B17001D/E
