@@ -16,7 +16,7 @@ Quickstats Raw Data - AAPI Data
 
 - Education: C15002D/E
 - Detailed pop: Alone B02015, B02016
-- Detailed pop: Alone B02018, B02019
+- Detailed pop: Combo B02018, B02019
 - pop Alone: - var_list <- c("B02001_005", "B02001_006", "B03002_003",
                     "B02001_003", "B03002_012")
 - pop Combo: - var_list <- c("B02011_001", "B02012_001", "B03002_003",
