@@ -24,12 +24,12 @@ table4 <- get_acs(table = "C15002E", geography = geo, year = year, summary_var =
 table5 <- get_acs(table = "C15002H", geography = geo, year = year, summary_var = "C15002H_001")
 table6 <- get_acs(table = "C15002I", geography = geo, year = year, summary_var = "C15002I_001")
 #generating group info
-table1 <- table1 %>% mutate(group="Black")
-table2 <- table2 %>% mutate(group="AIAN")
-table3 <- table3 %>% mutate(group="AA")
-table4 <- table4 %>% mutate(group="NHPI")
-table5 <- table5 %>% mutate(group="NH-wite")
-table6 <- table6 %>% mutate(group="Latino")
+table1 <- table1 %>% mutate(group="African American Alone")
+table2 <- table2 %>% mutate(group="AIAN Alone")
+table3 <- table3 %>% mutate(group="Asian Alone")
+table4 <- table4 %>% mutate(group="NHPI Alone")
+table5 <- table5 %>% mutate(group="Non-Hispanic White Alone")
+table6 <- table6 %>% mutate(group="Latino Alone")
 #merge into one
 table <- rbind(table1, table2, table3, table4, table5, table6)
 table <- table %>% 
