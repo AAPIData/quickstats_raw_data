@@ -1,3 +1,5 @@
+Library(glue)
+
 final_merger <- function(update_topics){
 # Load Helper Function for Poverty
 source("topic_help_function/poverty_help_function.R")

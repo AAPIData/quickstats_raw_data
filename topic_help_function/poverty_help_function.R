@@ -6,15 +6,16 @@ poverty_total_updater <- function(){
   pov_vars <- c("B17001D_002","B17001E_002","B17001B_002","B17001I_002","B17001H_002") 
   totals <- c("B17001D_001","B17001E_001","B17001B_001","B17001I_001","B17001H_001")
   groups <- c("Asian Alone", "NHPI ALone","Black Alone", "Hispanic Alone", "White Alone")
-  argList <-  list(pov_vars,totals,groups)     
+  year <- c("2016", "2016", "2016", "2016", "2016")
+  argList <-  list(pov_vars,totals,groups, year)     
 
 
-  pov_grabber <- function(pov_vars, totals, groups){
+  pov_grabber <- function(pov_vars, totals, groups, year){
 # Pulling State-Level Data ------------------------------------------------
     print(glue_col("Pulling poverty data for {bold {red {groups}}} at the State-level
                  using {bold {red {pov_vars}}} for the poverty total and {bold {red {totals}}}
                for the group total "))
-      temp_dta <- get_acs(geography="state",variables = pov_vars,summary_var = totals )
+      temp_dta <- get_acs(geography="state",variables = pov_vars,summary_var = totals, year=year)
       print(glue(""))
       final_state<- temp_dta %>%
         mutate(estimate = case_when(moe>(.25*estimate) ~ NA_real_,
@@ -36,7 +37,7 @@ poverty_total_updater <- function(){
       print(glue_col("Pulling poverty data for {bold {red {groups}}} at the county-level
                  using {bold {red {pov_vars}}} for the poverty total and {bold {red {totals}}}
                  for the group total "))
-      temp_dta <- get_acs(geography="county",variables = pov_vars,summary_var = totals )
+      temp_dta <- get_acs(geography="county",variables = pov_vars,summary_var = totals, year=year)
       final_county<- temp_dta %>%
         mutate(estimate = case_when(moe>(.25*estimate) ~ NA_real_,
                                     TRUE ~ estimate),
@@ -57,7 +58,7 @@ poverty_total_updater <- function(){
       print(glue_col("Pulling poverty data for {bold {red {groups}}} at the District-level
                  using {bold {red {pov_vars}}} for the poverty total and {bold {red {totals}}}
                  for the group total ")) # So we know what is going 
-      temp_dta <- get_acs(geography="congressional district",variables = pov_vars,summary_var = totals )
+      temp_dta <- get_acs(geography="congressional district",variables = pov_vars,summary_var = totals, year=year)
       final_district<- temp_dta %>%
         mutate(estimate = case_when(moe>(.25*estimate) ~ NA_real_,
                                     TRUE ~ estimate),
