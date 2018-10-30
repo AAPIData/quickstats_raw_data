@@ -61,4 +61,5 @@ detailed_total_updatter <- function(){
   argList <- list(geo, year)
   
   final <- pmap_dfr(argList,detailed_grabber) # Running pov_grabber
+  return(final)
 }
