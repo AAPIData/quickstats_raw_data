@@ -21,5 +21,11 @@ label <- label %>%
 
 source("final_merger.R") # Load Final Merger Function
 
-update_topics <- c("detailed", "education", "lep", "nativity", "population", "poverty")
+update_topics <- c("detailed", "education", "lep", "nativity", "population", "poverty", "insurance")
+
 final_merger(update_topics) #Run it
+
+
+
+
+

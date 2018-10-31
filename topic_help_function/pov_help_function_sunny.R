@@ -3,7 +3,7 @@ pov_total_updatter <- function(){
   #first of set up the grabber function
  poverty_grabber <- function(geo, year){
    
-   #load data for lep
+   #load data for pov
    table1 <- get_acs(variables = "B17001B_002", geography = geo, year = year, summary_var = "B17001B_001")
    table2 <- get_acs(variables = "B17001C_002", geography = geo, year = year, summary_var = "B17001C_001")
    table3 <- get_acs(variables = "B17001D_002", geography = geo, year = year, summary_var = "B17001D_001")
