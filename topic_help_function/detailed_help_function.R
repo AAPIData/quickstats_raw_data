@@ -14,6 +14,11 @@ detailed_total_updatter <- function(){
     table3 <- table3 %>% mutate(group="Asian Alone or in Combo")
     table4 <- table4 %>% mutate(group="NHPI Alone or in Combo")
     
+    #General population
+    gen_pop <- get_acs(variables = "B01003_001", geography = "state", year = 2017) %>%
+      select(NAME,estimate) %>% 
+      rename(`State Population`= estimate)
+    
     table <- rbind(table1, table2, table3, table4)
     
     table <- table %>% 
@@ -54,10 +59,13 @@ detailed_total_updatter <- function(){
       rename(estimate = prop)
     
     tbl_final <- rbind(tbl_count, tbl_prop)
+    
+    #pull geo population
+    tbl_final <- left_join(tbl_final,gen_pop)
     return(tbl_final)
      }
   geo <- c("state", "county", "congressional district")
-  year <- c(2016, 2016, 2016)
+  year <- c(2017, 2017, 2017)
   argList <- list(geo, year)
   
   final <- pmap_dfr(argList,detailed_grabber) # Running pov_grabber
