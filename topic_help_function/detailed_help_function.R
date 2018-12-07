@@ -17,7 +17,7 @@ detailed_total_updatter <- function(){
     #General population
     gen_pop <- get_acs(variables = "B01003_001", geography = "state", year = 2017) %>%
       select(NAME,estimate) %>% 
-      rename(`State Population`= estimate)
+      rename(`Total Population`= estimate)
     
     table <- rbind(table1, table2, table3, table4)
     
@@ -39,6 +39,26 @@ detailed_total_updatter <- function(){
       select(-label) %>% 
       mutate(topic_type = case_when(
         topic_type=="Chinese, except Taiwanese" ~"Chinese",
+        TRUE ~topic_type)) %>% 
+      mutate(topic_type = case_when(
+        variable=="B02019_002" ~"Native Hawaiian",
+        variable=="B02019_003" ~"Samoan",
+        variable=="B02019_004" ~"Tongan",
+        variable=="B02019_005" ~"Other Polynesian",
+        variable=="B02019_006" ~"Guamanian or Chamorro",
+        variable=="B02019_007" ~"Marshallese",
+        variable=="B02019_008" ~"Other Micronesian",
+        variable=="B02019_009" ~"Fijian",
+        variable=="B02019_010" ~"Other Melanesian",
+        variable=="B02016_002" ~"Native Hawaiian",
+        variable=="B02016_003" ~"Samoan",
+        variable=="B02016_004" ~"Tongan",
+        variable=="B02016_005" ~"Other Polynesian",
+        variable=="B02016_006" ~"Guamanian or Chamorro",
+        variable=="B02016_007" ~"Marshallese",
+        variable=="B02016_008" ~"Other Micronesian",
+        variable=="B02016_009" ~"Fijian",
+        variable=="B02016_010" ~"Other Melanesian",
         TRUE ~topic_type)) %>% 
       mutate(estimate = case_when(
         moe <= .25*estimate ~estimate,

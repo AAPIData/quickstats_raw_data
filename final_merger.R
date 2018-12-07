@@ -94,7 +94,7 @@ combined_df %>%
 # Congressional district --------------------------------------------------
 print("Subsetting data for District-level File \n Saving in cleaned_data folder")
 combined_df %>% 
-  filter(geo =="district") %>% 
+  filter(geo =="congressional district") %>% 
   select(-geo) %>% 
   separate(NAME, into = c("District","State"),sep=", ") %>% 
   mutate(District = str_remove(District,"Congressional ")) %>% 

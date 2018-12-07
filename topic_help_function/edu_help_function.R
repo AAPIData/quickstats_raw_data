@@ -1,7 +1,7 @@
 edu_total_updater <- function(){
   
   geo <- c("state", "county", "congressional district")
-  year <- c(2016, 2016, 2016)
+  year <- c(2017, 2017, 2017)
   argList <- list(geo, year)
   
   edu_grabber <- function(geo, year){
@@ -61,7 +61,7 @@ tbl <- table %>%
     summary_moe <= 0.25*summary_est ~summary_est,
     TRUE ~NA_real_)) %>% 
   mutate(prop = estimate / summary_est) %>% 
-  select(-est_moe, -summary_est, -summary_moe)
+  select(-est_moe, summary_est, -summary_moe)
 
 tbl_count <- tbl %>% select(-prop) %>% 
   mutate(estimate_type = "count")
