@@ -60,7 +60,7 @@ ins_total_updatter <- function(){
   
   #list of updates
   geo <- c("state", "county", "congressional district")
-  year <- c(2016,2016,2016)
+  year <- c(2017,2017,2017)
   argList <- list(geo, year)
   
   final <- pmap_dfr(argList, ins_grabber)
