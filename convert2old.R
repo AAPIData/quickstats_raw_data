@@ -177,3 +177,38 @@ arg_list3<- list(dta_list3,group_name,filename)
 pmap(arg_list1,edu_state_composer)
 pmap(arg_list2,edu_county_composer)
 pmap(arg_list3,edu_district_composer)
+
+
+# Insurance ---------------------------------------------------------------
+ins_state <- read_rds("raw_cleanup/dta_state.rds")
+ins_county <- read_rds("raw_cleanup/dta_county.rds")
+ins_district <- read_rds("raw_cleanup/dta_district.rds")
+
+ins_state_composer <- function(dta,group_name,filename){
+  temp_counts <- dta %>% 
+    rename(`Group Population`=summary_est) %>% 
+    filter(group == group_name) %>% 
+    filter(estimate_type=="count") %>%
+    select(State,`Group Population`,topic_type, estimate) %>%
+    spread(topic_type,estimate) 
+    write_csv(paste("old_quickstats/state_ins_",filename,"_count.csv",sep=""),na="")
+  
+  temp_prop <- dta %>% 
+    rename(`Group Population`=summary_est) %>% 
+    filter(group == group_name) %>% 
+    filter(estimate_type=="prop") %>%
+    select(State,`Group Population`,topic_type, estimate) %>%
+    spread(topic_type,estimate) %>% 
+    select(State, `Group Population`,`Less than HS`,`HS or GED`,`Some College or AA`, `BA or higher`) %>% 
+    write_csv(paste("old_quickstats/state_edu_",filename,"_prop.csv",sep=""),na="")
+  
+  
+}
+
+ins_state %>% count(group)
+ins_state %>% 
+  # rename(`Group Population`=summary_est) %>% 
+  filter(group == "Asian Alone") %>% 
+  filter(estimate_type=="count") %>%
+  select(State,`Group Population`,topic_type, estimate) %>%
+  spread(topic_type,estimate) 

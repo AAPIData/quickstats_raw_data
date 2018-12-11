@@ -25,6 +25,7 @@ update_topics <- c("detailed", "education", "lep", "nativity", "population", "po
 # final_merger(update_topics) #Run it
 
 final_merger("education")
+final_merger("insurance")
 
 
 
