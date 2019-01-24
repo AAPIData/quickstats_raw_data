@@ -15,7 +15,7 @@ detailed_total_updatter <- function(){
     table4 <- table4 %>% mutate(group="NHPI Alone or in Combo")
     
     #General population
-    gen_pop <- get_acs(variables = "B01003_001", geography = "state", year = 2017) %>%
+    gen_pop <- get_acs(variables = "B01003_001", geography = geo, year = year) %>%
       select(NAME,estimate) %>% 
       rename(`Total Population`= estimate)
     
@@ -35,7 +35,7 @@ detailed_total_updatter <- function(){
     tbl <- table %>% 
       filter(!label %in% c("Total", "Total Groups Tallied")) %>% 
       separate(label, into=c("label", "topic_type"), sep="!!") %>% 
-      filter(!topic_type %in% detailed_remove) %>% 
+      # filter(!topic_type %in% detailed_remove) %>% 
       select(-label) %>% 
       mutate(topic_type = case_when(
         topic_type=="Chinese, except Taiwanese" ~"Chinese",
@@ -66,10 +66,11 @@ detailed_total_updatter <- function(){
       mutate(summary_est = case_when(
         summary_moe <= .25*summary_est ~summary_est,
         TRUE ~NA_real_)) %>% 
-      mutate(prop = estimate / summary_est,
+      mutate(prop = round(estimate / summary_est*100,2),
              topic = "Population by Detailed Groups",
+             `Group Total`= summary_est,
              geo = geo) %>% 
-      select(geo, NAME, group, topic, topic_type, estimate, prop)
+      select(geo, NAME, group, topic, topic_type,summary_est, estimate, prop)
         
     tbl_count <- tbl %>% select(-prop) %>% 
       mutate(estimate_type = "count")

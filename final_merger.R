@@ -9,6 +9,7 @@ source("topic_help_function/edu_help_function.R")
 source("topic_help_function/lep_help_function.R")
 source("topic_help_function/nativity_help_function.R")
 source("topic_help_function/ins_help_function.R")
+source("topic_help_function/race_aapi_updatter.R")
 # Each helper function needs to output with following columns: geo, NAME, group, topic, topic_type, estimate_type, estimate
 # geo values = [state, county, district]
 # NAME= [raw name from tidycensus, we will disagg later after we split by geo]
@@ -54,6 +55,8 @@ if(update_topics %in% "detailed"){
 
 }else if(update_topics %in% "insurance"){
   temp_df7 <- ins_total_updatter()
+}else if(update_topics %in% "AAPI"){
+  temp_df8 <- race_aapi_updatter()
 }else {}
   
   
@@ -62,7 +65,7 @@ if(update_topics %in% "detailed"){
 combined_df <- rbind(if(exists("temp_df1")) temp_df1, if(exists("temp_df2")) temp_df2,
                      if(exists("temp_df3")) temp_df3, if(exists("temp_df4")) temp_df4,
                      if(exists("temp_df5")) temp_df5, if(exists("temp_df6")) temp_df6,
-                     if(exists("temp_df7")) temp_df7)
+                     if(exists("temp_df7")) temp_df7, if(exists("temp_df8")) temp_df8)
 
 
 rm(list=ls()[! ls() %in% c("combined_df")]) #Delete and clear space

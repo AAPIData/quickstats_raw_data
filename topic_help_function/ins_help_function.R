@@ -34,13 +34,17 @@ ins_total_updatter <- function(){
     tbl <- table %>% 
       mutate(estimate = case_when(
         moe <= .25* estimate ~estimate,
-        TRUE ~NA_real_)) %>% 
+        TRUE ~NA_real_)) %>%
       mutate(summary_est = case_when(
         summary_moe <= .25*summary_est ~summary_est,
-      TRUE ~NA_real_)) %>% 
-      mutate( prop = estimate / summary_est,
-              topic_type = "without health insurance") %>% 
-      select(NAME, group, topic_type, estimate, prop)
+      TRUE ~NA_real_)) %>%
+      select(NAME,  group,variable, estimate, summary_est) %>% 
+      group_by(NAME, group,summary_est) %>%
+      summarize(estimate =sum(estimate)) %>% 
+      ungroup %>% 
+      mutate(prop = estimate/summary_est,
+             topic_type = "without health insurance") %>% 
+      select(NAME, group, topic_type,summary_est, estimate, prop)
     
     tbl_count <- tbl %>% select(-prop) %>% 
       mutate(estimate_type = "count",

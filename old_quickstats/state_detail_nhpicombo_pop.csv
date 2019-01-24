@@ -1,53 +1,53 @@
-State,Total Population,Fijian,Other Melanesian,Other Pacific Islander not specified
-Alabama,4850771,,,
-Alaska,738565,,,
-Arizona,6809946,,,6757
-Arkansas,2977944,,,
-California,38982847,32589,,59771
-Colorado,5436519,,,4174
-Connecticut,3594478,,,2646
-Delaware,943732,,,
-District of Columbia,672391,,,
-Florida,20278447,,,19634
-Georgia,10201635,,,5088
-Hawaii,1421658,,,3100
-Idaho,1657375,,,
-Illinois,12854526,,,6165
-Indiana,6614418,,,2686
-Iowa,3118102,,,
-Kansas,2903820,,,
-Kentucky,4424376,,,
-Louisiana,4663461,,,
-Maine,1330158,,,
-Maryland,5996079,,,5295
-Massachusetts,6789319,,,5789
-Michigan,9925568,,,4306
-Minnesota,5490726,,,3009
-Mississippi,2986220,,,
-Missouri,6075300,,,2670
-Montana,1029862,,,
-Nebraska,1893921,,,
-Nevada,2887725,,,6048
-New Hampshire,1331848,,,
-New Jersey,8960161,,,7067
-New Mexico,2084828,,,
-New York,19798228,,,18126
-North Carolina,10052564,,,4437
-North Dakota,745475,,,
-Ohio,11609756,,,4249
-Oklahoma,3896251,,,1691
-Oregon,4025127,,,5571
-Pennsylvania,12790505,,,7424
-Puerto Rico,3468963,,,
-Rhode Island,1056138,,,
-South Carolina,4893444,,,
-South Dakota,855444,,,
-Tennessee,6597381,,,2860
-Texas,27419612,,,13898
-Utah,2993941,,,2822
-Vermont,624636,,,
-Virginia,8365952,,,6611
-Washington,7169967,,,9155
-West Virginia,1836843,,,
-Wisconsin,5763217,,,2183
-Wyoming,583200,,,
+State,Total Population,Fijian,Guamanian or Chamorro,Marshallese,Native Hawaiian,Other Melanesian,Other Micronesian,Other Pacific Islander not specified,Other Polynesian,Samoan,Tongan
+Alabama,4850771,,,,1234,,,,,,
+Alaska,738565,,,,3947,,,,,6855,
+Arizona,6809946,,4160,,11087,,,6757,,3539,2070
+Arkansas,2977944,,,5927,,,,,,,
+California,38982847,32589,45381,,82555,,4257,59771,4875,62590,24411
+Colorado,5436519,,3183,,7138,,,4174,,,
+Connecticut,3594478,,,,,,,2646,,,
+Delaware,943732,,,,,,,,,,
+District of Columbia,672391,,,,,,,,,,
+Florida,20278447,,5809,,8256,,,19634,,3351,
+Georgia,10201635,,2162,,4790,,,5088,,,
+Hawaii,1421658,,6915,8678,304343,,20049,3100,5001,35477,6659
+Idaho,1657375,,,,3034,,,,,,
+Illinois,12854526,,2087,,4134,,,6165,,1461,
+Indiana,6614418,,,,2242,,,2686,,996,
+Iowa,3118102,,,,1722,,,,,,
+Kansas,2903820,,,,,,,,,,
+Kentucky,4424376,,,,1595,,,,,,
+Louisiana,4663461,,,,,,,,,,
+Maine,1330158,,,,,,,,,,
+Maryland,5996079,,1497,,2672,,,5295,,,
+Massachusetts,6789319,,,,2489,,,5789,,,
+Michigan,9925568,,,,3634,,,4306,,,
+Minnesota,5490726,,,,2284,,,3009,,682,
+Mississippi,2986220,,,,,,,,,,
+Missouri,6075300,,,,4432,,,2670,,2219,
+Montana,1029862,,,,,,,,,,
+Nebraska,1893921,,,,,,,,,,
+Nevada,2887725,,6709,,17898,,,6048,,6503,
+New Hampshire,1331848,,,,,,,,,,
+New Jersey,8960161,,,,2483,,,7067,,,
+New Mexico,2084828,,,,1611,,,,,,
+New York,19798228,,2376,,6128,,,18126,,2043,
+North Carolina,10052564,,3227,,5150,,,4437,,,
+North Dakota,745475,,,,,,,,,,
+Ohio,11609756,,1440,,3494,,,4249,,1332,
+Oklahoma,3896251,,1266,2084,3128,,,1691,,,
+Oregon,4025127,,3224,,12225,,3422,5571,,3321,
+Pennsylvania,12790505,,,,3724,,,7424,,1268,
+Puerto Rico,3468963,,,,,,,,,,
+Rhode Island,1056138,,,,,,,,,,
+South Carolina,4893444,,1184,,1452,,,,,,
+South Dakota,855444,,,,,,,,,,
+Tennessee,6597381,,,,,,,2860,,,
+Texas,27419612,,11724,,16492,,3924,13898,,5712,
+Utah,2993941,,,,8584,,,2822,,15191,15339
+Vermont,624636,,,,,,,,,,
+Virginia,8365952,,3939,,4727,,,6611,,1869,
+Washington,7169967,,17018,,24827,,5231,9155,,21216,
+West Virginia,1836843,,,,,,,,,,
+Wisconsin,5763217,,,,1987,,,2183,,,
+Wyoming,583200,,,,,,,,,,

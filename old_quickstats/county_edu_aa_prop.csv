@@ -2,12 +2,12 @@ County,State,Group Population,Less than HS,HS or GED,Some College or AA,BA or hi
 Abbeville County,South Carolina,,,,,
 Acadia Parish,Louisiana,,,,,
 Accomack County,Virginia,,,,,
-Ada County,Idaho,7719,,0.1864231118020469,,0.5145744267392149
+Ada County,Idaho,7719,,18.64,,51.46
 Adair County,Iowa,,,,,
 Adair County,Kentucky,,,,,
 Adair County,Missouri,,,,,
 Adair County,Oklahoma,97,,,,
-Adams County,Colorado,12520,0.23498402555910544,0.2303514376996805,0.21373801916932908,0.320926517571885
+Adams County,Colorado,12520,23.5,23.04,21.37,32.09
 Adams County,Idaho,,,,,
 Adams County,Illinois,,,,,
 Adams County,Indiana,,,,,
@@ -27,20 +27,20 @@ Aguas Buenas Municipio,Puerto Rico,,,,,
 Aibonito Municipio,Puerto Rico,,,,,
 Aiken County,South Carolina,1218,,,,
 Aitkin County,Minnesota,,,,,
-Alachua County,Florida,8847,,,,0.7223917712218831
+Alachua County,Florida,8847,,,,72.24
 Alamance County,North Carolina,1559,,,,
-Alameda County,California,340159,0.12157255871518907,0.13815597999758936,0.18635402855723354,0.5539174327299881
+Alameda County,California,340159,12.16,13.82,18.64,55.39
 Alamosa County,Colorado,,,,,
-Albany County,New York,11549,,,,0.6239501255519958
-Albany County,Wyoming,637,,,,0.8320251177394035
-Albemarle County,Virginia,3019,,,,0.694600861212322
+Albany County,New York,11549,,,,62.4
+Albany County,Wyoming,637,,,,83.2
+Albemarle County,Virginia,3019,,,,69.46
 Alcona County,Michigan,44,,,,
 Alcorn County,Mississippi,,,,,
 Aleutians East Borough,Alaska,757,,,,
-Aleutians West Census Area,Alaska,1646,,0.31470230862697446,0.34386391251518833,
+Aleutians West Census Area,Alaska,1646,,31.47,34.39,
 Alexander County,Illinois,,,,,
 Alexander County,North Carolina,,,,,
-Alexandria city,Virginia,7971,,,,0.6646593902898005
+Alexandria city,Virginia,7971,,,,66.47
 Alfalfa County,Oklahoma,,,,,
 Alger County,Michigan,,,,,
 Allamakee County,Iowa,,,,,
@@ -49,8 +49,8 @@ Allegany County,Maryland,348,,,,
 Allegany County,New York,365,,,,
 Alleghany County,North Carolina,,,,,
 Alleghany County,Virginia,,,,,
-Allegheny County,Pennsylvania,28060,0.11258018531717748,0.07066999287241625,0.07498218104062723,0.7417676407697791
-Allen County,Indiana,7364,0.3382672460619229,,,0.3515752308527974
+Allegheny County,Pennsylvania,28060,11.26,7.07,7.5,74.18
+Allen County,Indiana,7364,33.83,,,35.16
 Allen County,Kansas,,,,,
 Allen County,Kentucky,,,,,
 Allen County,Ohio,563,,,,
@@ -63,18 +63,18 @@ Amelia County,Virginia,,,,,
 Amherst County,Virginia,,,,,
 Amite County,Mississippi,,,,,
 Añasco Municipio,Puerto Rico,,,,,
-Anchorage Municipality,Alaska,17183,0.2106733399289996,0.24169237036605948,0.28400162951754643,0.2636326601873945
+Anchorage Municipality,Alaska,17183,21.07,24.17,28.4,26.36
 Anderson County,Kansas,,,,,
 Anderson County,Kentucky,,,,,
 Anderson County,South Carolina,1153,,,,
-Anderson County,Tennessee,830,,,,0.7072289156626506
+Anderson County,Tennessee,830,,,,70.72
 Anderson County,Texas,252,,,,
 Andrew County,Missouri,,,,,
 Andrews County,Texas,,,,,
 Androscoggin County,Maine,543,,,,
 Angelina County,Texas,658,,,,
-Anne Arundel County,Maryland,15366,0.10718469347910972,0.14974619289340102,0.22387088376936093,0.5191982298581284
-Anoka County,Minnesota,9117,0.18317428978830755,0.16726993528572995,0.25743117253482506,0.39212460239113744
+Anne Arundel County,Maryland,15366,10.72,14.97,22.39,51.92
+Anoka County,Minnesota,9117,18.32,16.73,25.74,39.21
 Anson County,North Carolina,,,,,
 Antelope County,Nebraska,,,,,
 Antrim County,Michigan,,,,,
@@ -83,13 +83,13 @@ Appanoose County,Iowa,,,,,
 Appling County,Georgia,,,,,
 Appomattox County,Virginia,,,,,
 Aransas County,Texas,436,,,,
-Arapahoe County,Colorado,24513,0.14657528658262964,0.16456574062742219,0.19063354138620323,0.498225431403745
+Arapahoe County,Colorado,24513,14.66,16.46,19.06,49.82
 Archer County,Texas,,,,,
 Archuleta County,Colorado,,,,,
 Arecibo Municipio,Puerto Rico,,,,,
 Arenac County,Michigan,39,,,,
 Arkansas County,Arkansas,,,,,
-Arlington County,Virginia,18118,,,0.10139088199580527,0.7503587592449498
+Arlington County,Virginia,18118,,,10.14,75.04
 Armstrong County,Pennsylvania,129,,,,
 Armstrong County,Texas,,,,,
 Aroostook County,Maine,190,,,,
@@ -106,9 +106,9 @@ Assumption Parish,Louisiana,,,,,
 Atascosa County,Texas,,,,,
 Atchison County,Kansas,,,,,
 Atchison County,Missouri,,,,,
-Athens County,Ohio,891,,,,0.8013468013468014
+Athens County,Ohio,891,,,,80.13
 Atkinson County,Georgia,,,,,
-Atlantic County,New Jersey,15471,0.23243487815913644,0.20987654320987653,0.20289574041755543,0.3547928382134316
+Atlantic County,New Jersey,15471,23.24,20.99,20.29,35.48
 Atoka County,Oklahoma,,,,,
 Attala County,Mississippi,,,,,
 Audrain County,Missouri,,,,,
@@ -129,8 +129,8 @@ Baker County,Oregon,,,,,
 Baldwin County,Alabama,,,,,
 Baldwin County,Georgia,,,,,
 Ballard County,Kentucky,,,,,
-Baltimore city,Maryland,11294,,,,0.7277315388701966
-Baltimore County,Maryland,33237,0.14586153985016698,0.1381893672714144,0.1548274513343563,0.5611216415440623
+Baltimore city,Maryland,11294,,,,72.77
+Baltimore County,Maryland,33237,14.59,13.82,15.48,56.11
 Bamberg County,South Carolina,,,,,
 Bandera County,Texas,,,,,
 Banks County,Georgia,145,,,,
@@ -150,7 +150,7 @@ Barron County,Wisconsin,188,,,,
 Barrow County,Georgia,1573,,,,
 Barry County,Michigan,225,,,,
 Barry County,Missouri,310,,,,
-Bartholomew County,Indiana,3465,,,,0.855988455988456
+Bartholomew County,Indiana,3465,,,,85.6
 Barton County,Kansas,,,,,
 Barton County,Missouri,,,,,
 Bartow County,Georgia,621,,,,
@@ -181,7 +181,7 @@ Bedford County,Virginia,668,,,,
 Bee County,Texas,,,,,
 Belknap County,New Hampshire,415,,,,
 Bell County,Kentucky,,,,,
-Bell County,Texas,7064,,0.2206964892412231,0.31653454133635334,0.329841449603624
+Bell County,Texas,7064,,22.07,31.65,32.98
 Belmont County,Ohio,211,,,,
 Beltrami County,Minnesota,236,,,,
 Ben Hill County,Georgia,,,,,
@@ -190,36 +190,36 @@ Bennett County,South Dakota,,,,,
 Bennington County,Vermont,,,,,
 Benson County,North Dakota,,,,,
 Bent County,Colorado,,,,,
-Benton County,Arkansas,6054,,,,0.7626362735381566
+Benton County,Arkansas,6054,,,,76.26
 Benton County,Indiana,,,,,
 Benton County,Iowa,,,,,
 Benton County,Minnesota,333,,,,
 Benton County,Mississippi,,,,,
 Benton County,Missouri,,,,,
-Benton County,Oregon,2882,,,,0.7498265093684942
+Benton County,Oregon,2882,,,,74.98
 Benton County,Tennessee,,,,,
-Benton County,Washington,3642,,,,0.5200439319055464
+Benton County,Washington,3642,,,,52
 Benzie County,Michigan,64,,,,
-Bergen County,New Jersey,109747,0.05526346961648154,0.12964363490573774,0.1339899951707108,0.6811029003070699
-Berkeley County,South Carolina,3372,,,0.27846975088967973,0.3638790035587189
+Bergen County,New Jersey,109747,5.53,12.96,13.4,68.11
+Berkeley County,South Carolina,3372,,,27.85,36.39
 Berkeley County,West Virginia,763,,,,
-Berks County,Pennsylvania,3878,,,,0.3991748323878288
+Berks County,Pennsylvania,3878,,,,39.92
 Berkshire County,Massachusetts,1225,,,,
-Bernalillo County,New Mexico,12107,0.16469810853225406,0.16948872553068473,0.20566614355331625,0.46014702238374494
+Bernalillo County,New Mexico,12107,16.47,16.95,20.57,46.01
 Berrien County,Georgia,,,,,
-Berrien County,Michigan,1995,,,,0.7177944862155389
+Berrien County,Michigan,1995,,,,71.78
 Bertie County,North Carolina,,,,,
 Bethel Census Area,Alaska,142,,,,
-Bexar County,Texas,35710,0.1341360963315598,0.1655558667040045,0.18602632315877907,0.5142817138056567
+Bexar County,Texas,35710,13.41,16.56,18.6,51.43
 Bibb County,Alabama,,,,,
-Bibb County,Georgia,1878,,,,0.4840255591054313
+Bibb County,Georgia,1878,,,,48.4
 Bienville Parish,Louisiana,,,,,
 Big Horn County,Montana,,,,,
 Big Horn County,Wyoming,,,,,
 Big Stone County,Minnesota,,,,,
 Billings County,North Dakota,,,,,
 Bingham County,Idaho,295,,,,
-Black Hawk County,Iowa,1557,,,,0.46756583172768146
+Black Hawk County,Iowa,1557,,,,46.76
 Blackford County,Indiana,,,,,
 Bladen County,North Carolina,,,,,
 Blaine County,Idaho,,,,,
@@ -243,10 +243,10 @@ Bonner County,Idaho,204,,,,
 Bonneville County,Idaho,775,,,,
 Boone County,Arkansas,,,,,
 Boone County,Illinois,499,,,,
-Boone County,Indiana,1056,,,,0.7225378787878788
+Boone County,Indiana,1056,,,,72.25
 Boone County,Iowa,,,,,
-Boone County,Kentucky,1988,,,,0.6101609657947686
-Boone County,Missouri,4266,,,,0.7018284106891702
+Boone County,Kentucky,1988,,,,61.02
+Boone County,Missouri,4266,,,,70.18
 Boone County,Nebraska,,,,,
 Boone County,West Virginia,,,,,
 Borden County,Texas,,,,,
@@ -254,7 +254,7 @@ Bosque County,Texas,,,,,
 Bossier Parish,Louisiana,1398,,,,
 Botetourt County,Virginia,,,,,
 Bottineau County,North Dakota,,,,,
-Boulder County,Colorado,9062,,,,0.6642021628779519
+Boulder County,Colorado,9062,,,,66.42
 Boundary County,Idaho,,,,,
 Bourbon County,Kansas,,,,,
 Bourbon County,Kentucky,,,,,
@@ -273,27 +273,27 @@ Bradley County,Tennessee,665,,,,
 Branch County,Michigan,,,,,
 Brantley County,Georgia,,,,,
 Braxton County,West Virginia,,,,,
-Brazoria County,Texas,14374,,,,0.6739251426186169
-Brazos County,Texas,6844,,,,0.7752776154295733
+Brazoria County,Texas,14374,,,,67.39
+Brazos County,Texas,6844,,,,77.53
 Breathitt County,Kentucky,,,,,
 Breckinridge County,Kentucky,,,,,
 Bremer County,Iowa,,,,,
-Brevard County,Florida,9978,,0.2158749248346362,0.2164762477450391,0.4495890960112247
+Brevard County,Florida,9978,,21.59,21.65,44.96
 Brewster County,Texas,,,,,
 Briscoe County,Texas,,,,,
 Bristol Bay Borough,Alaska,,,,,
 Bristol city,Virginia,,,,,
-Bristol County,Massachusetts,7456,0.1380096566523605,,,0.5464055793991416
+Bristol County,Massachusetts,7456,13.8,,,54.64
 Bristol County,Rhode Island,532,,,,
 Broadwater County,Montana,,,,,
-Bronx County,New York,37193,0.23773290672976097,0.22264942327857393,0.1834484983733498,0.3561691716183153
+Bronx County,New York,37193,23.77,22.26,18.34,35.62
 Brooke County,West Virginia,,,,,
 Brookings County,South Dakota,525,,,,
 Brooks County,Georgia,,,,,
 Brooks County,Texas,,,,,
-Broome County,New York,3663,,,,0.5241605241605242
-Broomfield County,Colorado,2917,,,,0.639698320191978
-Broward County,Florida,48783,0.13068076994034808,0.18010372465818011,0.1918906176331919,0.49732488776827993
+Broome County,New York,3663,,,,52.42
+Broomfield County,Colorado,2917,,,,63.97
+Broward County,Florida,48783,13.07,18.01,19.19,49.73
 Brown County,Illinois,,,,,
 Brown County,Indiana,,,,,
 Brown County,Kansas,39,,,,
@@ -302,7 +302,7 @@ Brown County,Nebraska,,,,,
 Brown County,Ohio,,,,,
 Brown County,South Dakota,,,,,
 Brown County,Texas,,,,,
-Brown County,Wisconsin,4231,,,,0.4159773103285275
+Brown County,Wisconsin,4231,,,,41.6
 Brule County,South Dakota,,,,,
 Brunswick County,North Carolina,580,,,,
 Brunswick County,Virginia,,,,,
@@ -312,7 +312,7 @@ Buchanan County,Iowa,,,,,
 Buchanan County,Missouri,614,,,,
 Buchanan County,Virginia,,,,,
 Buckingham County,Virginia,,,,,
-Bucks County,Pennsylvania,19739,0.08815036222706317,0.1429150412888191,0.15704949592177922,0.6118851005623385
+Bucks County,Pennsylvania,19739,8.82,14.29,15.7,61.19
 Buena Vista city,Virginia,,,,,
 Buena Vista County,Iowa,1100,,,,
 Buffalo County,Nebraska,,,,,
@@ -324,11 +324,11 @@ Bullock County,Alabama,,,,,
 Buncombe County,North Carolina,2185,,,,
 Bureau County,Illinois,196,,,,
 Burke County,Georgia,,,,,
-Burke County,North Carolina,1767,0.3395585738539898,,,
+Burke County,North Carolina,1767,33.96,,,
 Burke County,North Dakota,,,,,
 Burleigh County,North Dakota,448,,,,
 Burleson County,Texas,,,,,
-Burlington County,New Jersey,15316,0.09780621572212066,0.12222512405327762,0.1634238704622617,0.6165447897623401
+Burlington County,New Jersey,15316,9.78,12.22,16.34,61.65
 Burnet County,Texas,247,,,,
 Burnett County,Wisconsin,,,,,
 Burt County,Nebraska,,,,,
@@ -338,18 +338,18 @@ Butler County,Kansas,464,,,,
 Butler County,Kentucky,,,,,
 Butler County,Missouri,,,,,
 Butler County,Nebraska,,,,,
-Butler County,Ohio,6460,,,,0.5402476780185759
-Butler County,Pennsylvania,1512,,,,0.7255291005291006
-Butte County,California,5094,0.2571652925009815,,0.2879858657243816,0.2970160973694543
+Butler County,Ohio,6460,,,,54.02
+Butler County,Pennsylvania,1512,,,,72.55
+Butte County,California,5094,25.72,,28.8,29.7
 Butte County,Idaho,,,,,
 Butte County,South Dakota,,,,,
 Butts County,Georgia,140,,,,
-Cabarrus County,North Carolina,3964,,,,0.6834006054490414
-Cabell County,West Virginia,769,,,,0.6736020806241872
+Cabarrus County,North Carolina,3964,,,,68.34
+Cabell County,West Virginia,769,,,,67.36
 Cabo Rojo Municipio,Puerto Rico,,,,,
-Cache County,Utah,1369,,,,0.4959824689554419
+Cache County,Utah,1369,,,,49.6
 Caddo County,Oklahoma,,,,,
-Caddo Parish,Louisiana,2129,,,,0.49365899483325504
+Caddo Parish,Louisiana,2129,,,,49.37
 Caguas Municipio,Puerto Rico,,,,,
 Calaveras County,California,474,,,,
 Calcasieu Parish,Louisiana,1739,,,,
@@ -379,10 +379,10 @@ Camas County,Idaho,,,,,
 Cambria County,Pennsylvania,443,,,,
 Camden County,Georgia,449,,,,
 Camden County,Missouri,,,,,
-Camden County,New Jersey,20374,0.13846078335133014,0.17478158437223912,0.17286737999411014,0.5138902522823207
+Camden County,New Jersey,20374,13.85,17.48,17.29,51.39
 Camden County,North Carolina,,,,,
 Cameron County,Pennsylvania,,,,,
-Cameron County,Texas,1896,,,,0.580168776371308
+Cameron County,Texas,1896,,,,58.02
 Cameron Parish,Louisiana,,,,,
 Camp County,Texas,,,,,
 Campbell County,Kentucky,541,,,,
@@ -414,7 +414,7 @@ Carroll County,Illinois,53,,,,
 Carroll County,Indiana,,,,,
 Carroll County,Iowa,,,,,
 Carroll County,Kentucky,,,,,
-Carroll County,Maryland,1909,,,,0.573074908328968
+Carroll County,Maryland,1909,,,,57.31
 Carroll County,Mississippi,,,,,
 Carroll County,Missouri,,,,,
 Carroll County,New Hampshire,,,,,
@@ -429,7 +429,7 @@ Carter County,Montana,,,,,
 Carter County,Oklahoma,342,,,,
 Carter County,Tennessee,,,,,
 Carteret County,North Carolina,571,,,,
-Carver County,Minnesota,1733,,,,0.6439699942296595
+Carver County,Minnesota,1733,,,,64.4
 Cascade County,Montana,600,,,,
 Casey County,Kentucky,,,,,
 Cass County,Illinois,,,,,
@@ -439,7 +439,7 @@ Cass County,Michigan,271,,,,
 Cass County,Minnesota,97,,,,
 Cass County,Missouri,605,,,,
 Cass County,Nebraska,,,,,
-Cass County,North Dakota,2867,,,,0.4872689222183467
+Cass County,North Dakota,2867,,,,48.73
 Cass County,Texas,,,,,
 Cassia County,Idaho,,,,,
 Castro County,Texas,,,,,
@@ -458,26 +458,26 @@ Cedar County,Iowa,,,,,
 Cedar County,Missouri,,,,,
 Cedar County,Nebraska,,,,,
 Ceiba Municipio,Puerto Rico,,,,,
-Centre County,Pennsylvania,4231,,,,0.7515953675254077
+Centre County,Pennsylvania,4231,,,,75.16
 Cerro Gordo County,Iowa,344,,,,
 Chaffee County,Colorado,,,,,
 Chambers County,Alabama,280,,,,
 Chambers County,Texas,327,,,,
-Champaign County,Illinois,9825,,,,0.7990839694656489
+Champaign County,Illinois,9825,,,,79.91
 Champaign County,Ohio,,,,,
 Chariton County,Missouri,,,,,
 Charles City County,Virginia,52,,,,
-Charles County,Maryland,3436,,,,0.41559953434225844
+Charles County,Maryland,3436,,,,41.56
 Charles Mix County,South Dakota,,,,,
-Charleston County,South Carolina,4055,,,,0.604438964241677
+Charleston County,South Carolina,4055,,,,60.44
 Charlevoix County,Michigan,,,,,
 Charlotte County,Florida,1676,,,,
 Charlotte County,Virginia,,,,,
-Charlottesville city,Virginia,1613,,,,0.7185368877867327
+Charlottesville city,Virginia,1613,,,,71.85
 Charlton County,Georgia,,,,,
 Chase County,Kansas,,,,,
 Chase County,Nebraska,,,,,
-Chatham County,Georgia,5108,,,,0.5013703993735317
+Chatham County,Georgia,5108,,,,50.14
 Chatham County,North Carolina,845,,,,
 Chattahoochee County,Georgia,,,,,
 Chattooga County,Georgia,,,,,
@@ -487,7 +487,7 @@ Chaves County,New Mexico,,,,,
 Cheatham County,Tennessee,,,,,
 Cheboygan County,Michigan,,,,,
 Chelan County,Washington,567,,,,
-Chemung County,New York,865,,,,0.8161849710982659
+Chemung County,New York,865,,,,81.62
 Chenango County,New York,,,,,
 Cherokee County,Alabama,,,,,
 Cherokee County,Georgia,2889,,,,
@@ -498,13 +498,13 @@ Cherokee County,Oklahoma,,,,,
 Cherokee County,South Carolina,248,,,,
 Cherokee County,Texas,,,,,
 Cherry County,Nebraska,,,,,
-Chesapeake city,Virginia,5618,,,0.25133499466002135,0.5005339978640085
+Chesapeake city,Virginia,5618,,,25.13,50.05
 Cheshire County,New Hampshire,606,,,,
-Chester County,Pennsylvania,16698,,,,0.8023116540903102
+Chester County,Pennsylvania,16698,,,,80.23
 Chester County,South Carolina,,,,,
 Chester County,Tennessee,,,,,
 Chesterfield County,South Carolina,,,,,
-Chesterfield County,Virginia,8319,,,,0.531313859838923
+Chesterfield County,Virginia,8319,,,,53.13
 Cheyenne County,Colorado,,,,,
 Cheyenne County,Kansas,,,,,
 Cheyenne County,Nebraska,,,,,
@@ -517,7 +517,7 @@ Chippewa County,Michigan,207,,,,
 Chippewa County,Minnesota,53,,,,
 Chippewa County,Wisconsin,474,,,,
 Chisago County,Minnesota,342,,,,
-Chittenden County,Vermont,3552,0.29307432432432434,,,0.42989864864864863
+Chittenden County,Vermont,3552,29.31,,,42.99
 Choctaw County,Alabama,,,,,
 Choctaw County,Mississippi,,,,,
 Choctaw County,Oklahoma,,,,,
@@ -532,7 +532,7 @@ Cibola County,New Mexico,,,,,
 Cidra Municipio,Puerto Rico,,,,,
 Cimarron County,Oklahoma,,,,,
 Citrus County,Florida,1781,,,,
-Clackamas County,Oregon,11422,,0.14769742601996147,0.24671686219576255,0.5338819821397304
+Clackamas County,Oregon,11422,,14.77,24.67,53.39
 Claiborne County,Mississippi,,,,,
 Claiborne County,Tennessee,,,,,
 Claiborne Parish,Louisiana,,,,,
@@ -547,20 +547,20 @@ Clark County,Indiana,,,,,
 Clark County,Kansas,,,,,
 Clark County,Kentucky,,,,,
 Clark County,Missouri,,,,,
-Clark County,Nevada,153299,0.10408417536970235,0.21288462416584583,0.3082603278560199,0.3747708726084319
+Clark County,Nevada,153299,10.41,21.29,30.83,37.48
 Clark County,Ohio,590,,,,
 Clark County,South Dakota,,,,,
-Clark County,Washington,14566,0.1204860634353975,0.15996155430454484,0.2980227928051627,0.42152958945489494
+Clark County,Washington,14566,12.05,16,29.8,42.15
 Clark County,Wisconsin,89,,,,
 Clarke County,Alabama,,,,,
-Clarke County,Georgia,2572,,,,0.7935458786936236
+Clarke County,Georgia,2572,,,,79.35
 Clarke County,Iowa,,,,,
 Clarke County,Mississippi,,,,,
 Clarke County,Virginia,136,,,,
 Clatsop County,Oregon,,,,,
 Clay County,Alabama,,,,,
 Clay County,Arkansas,,,,,
-Clay County,Florida,4561,,,,0.4577943433457575
+Clay County,Florida,4561,,,,45.78
 Clay County,Georgia,,,,,
 Clay County,Illinois,,,,,
 Clay County,Indiana,,,,,
@@ -569,14 +569,14 @@ Clay County,Kansas,,,,,
 Clay County,Kentucky,,,,,
 Clay County,Minnesota,,,,,
 Clay County,Mississippi,,,,,
-Clay County,Missouri,3454,,,,0.40387955993051533
+Clay County,Missouri,3454,,,,40.39
 Clay County,Nebraska,,,,,
 Clay County,North Carolina,,,,,
 Clay County,South Dakota,215,,,,
 Clay County,Tennessee,,,,,
 Clay County,Texas,,,,,
 Clay County,West Virginia,,,,,
-Clayton County,Georgia,9866,0.3367119399959457,0.36458544496249745,,0.15669977701196028
+Clayton County,Georgia,9866,33.67,36.46,,15.67
 Clayton County,Iowa,,,,,
 Clear Creek County,Colorado,,,,,
 Clearfield County,Pennsylvania,371,,,,
@@ -584,10 +584,10 @@ Clearwater County,Idaho,,,,,
 Clearwater County,Minnesota,29,,,,
 Cleburne County,Alabama,,,,,
 Cleburne County,Arkansas,,,,,
-Clermont County,Ohio,1576,,,,0.6256345177664975
+Clermont County,Ohio,1576,,,,62.56
 Cleveland County,Arkansas,,,,,
 Cleveland County,North Carolina,647,,,,
-Cleveland County,Oklahoma,6969,,0.16085521595637825,0.21782178217821782,0.5009327019658487
+Cleveland County,Oklahoma,6969,,16.09,21.78,50.09
 Clinch County,Georgia,,,,,
 Clinton County,Illinois,163,,,,
 Clinton County,Indiana,,,,,
@@ -602,7 +602,7 @@ Cloud County,Kansas,,,,,
 Coahoma County,Mississippi,,,,,
 Coal County,Oklahoma,,,,,
 Coamo Municipio,Puerto Rico,,,,,
-Cobb County,Georgia,26193,,0.10411178559157026,0.1455732447600504,0.6750276791509182
+Cobb County,Georgia,26193,,10.41,14.56,67.5
 Cochise County,Arizona,1917,,,,
 Cochran County,Texas,,,,,
 Cocke County,Tennessee,,,,,
@@ -614,21 +614,21 @@ Coffee County,Tennessee,378,,,,
 Coffey County,Kansas,,,,,
 Coke County,Texas,,,,,
 Colbert County,Alabama,228,,,,
-Cole County,Missouri,755,,,,0.7271523178807947
+Cole County,Missouri,755,,,,72.72
 Coleman County,Texas,47,,,,
 Coles County,Illinois,,,,,
 Colfax County,Nebraska,,,,,
 Colfax County,New Mexico,,,,,
 Colleton County,South Carolina,,,,,
 Collier County,Florida,3355,,,,
-Collin County,Texas,81446,0.05363062642732608,0.07429462465928345,0.11645753014267121,0.7556172187707193
+Collin County,Texas,81446,5.36,7.43,11.65,75.56
 Collingsworth County,Texas,,,,,
 Colonial Heights city,Virginia,462,,,,
 Colorado County,Texas,,,,,
 Colquitt County,Georgia,,,,,
 Columbia County,Arkansas,,,,,
 Columbia County,Florida,494,,,,
-Columbia County,Georgia,4110,,,,0.6211678832116788
+Columbia County,Georgia,4110,,,,62.12
 Columbia County,New York,692,,,,
 Columbia County,Oregon,430,,,,
 Columbia County,Pennsylvania,486,,,,
@@ -646,11 +646,11 @@ Concho County,Texas,,,,,
 Concordia Parish,Louisiana,,,,,
 Conecuh County,Alabama,,,,,
 Conejos County,Colorado,,,,,
-Contra Costa County,California,130042,0.09278540779132896,0.11133326156164931,0.23713108072776487,0.5587502499192568
+Contra Costa County,California,130042,9.28,11.13,23.71,55.88
 Converse County,Wyoming,,,,,
 Conway County,Arkansas,,,,,
 Cook County,Georgia,,,,,
-Cook County,Illinois,267080,0.09976785981728321,0.12298562228545754,0.1570615545903849,0.6201849633068743
+Cook County,Illinois,267080,9.98,12.3,15.71,62.02
 Cook County,Minnesota,,,,,
 Cooke County,Texas,291,,,,
 Cooper County,Missouri,,,,,
@@ -708,10 +708,10 @@ Cullman County,Alabama,345,,,,
 Culpeper County,Virginia,302,,,,
 Cumberland County,Illinois,,,,,
 Cumberland County,Kentucky,,,,,
-Cumberland County,Maine,4135,,,,0.41765417170495767
+Cumberland County,Maine,4135,,,,41.77
 Cumberland County,New Jersey,1389,,,,
-Cumberland County,North Carolina,5826,0.1826295914864401,0.25231719876416064,0.24116031582560934,0.3238928939237899
-Cumberland County,Pennsylvania,6512,,,,0.6073402948402948
+Cumberland County,North Carolina,5826,18.26,25.23,24.12,32.39
+Cumberland County,Pennsylvania,6512,,,,60.73
 Cumberland County,Tennessee,336,,,,
 Cumberland County,Virginia,,,,,
 Cuming County,Nebraska,,,,,
@@ -724,34 +724,34 @@ Custer County,Montana,,,,,
 Custer County,Nebraska,,,,,
 Custer County,Oklahoma,,,,,
 Custer County,South Dakota,,,,,
-Cuyahoga County,Ohio,25498,0.1147933171229116,0.12134285041964075,0.11495019217193506,0.6489136402855126
+Cuyahoga County,Ohio,25498,11.48,12.13,11.5,64.89
 Dade County,Georgia,,,,,
 Dade County,Missouri,,,,,
 Daggett County,Utah,,,,,
-Dakota County,Minnesota,13024,0.14120085995085996,0.1583230958230958,0.2316492628992629,0.46882678132678135
+Dakota County,Minnesota,13024,14.12,15.83,23.16,46.88
 Dakota County,Nebraska,,,,,
 Dale County,Alabama,421,,,,
 Dallam County,Texas,,,,,
 Dallas County,Alabama,,,,,
 Dallas County,Arkansas,,,,,
-Dallas County,Iowa,2111,,,,0.7077214590241592
+Dallas County,Iowa,2111,,,,70.77
 Dallas County,Missouri,,,,,
-Dallas County,Texas,105690,0.14586999716151008,0.11968965843504589,0.1600151386129246,0.5744252057905195
-Dane County,Wisconsin,16278,0.10339107998525618,0.09823074087725765,0.1236024081582504,0.6747757709792358
+Dallas County,Texas,105690,14.59,11.97,16,57.44
+Dane County,Wisconsin,16278,10.34,9.82,12.36,67.48
 Daniels County,Montana,,,,,
 Danville city,Virginia,,,,,
 Dare County,North Carolina,,,,,
 Darke County,Ohio,,,,,
 Darlington County,South Carolina,221,,,,
-Dauphin County,Pennsylvania,7024,0.2185364464692483,,,0.45074031890660593
+Dauphin County,Pennsylvania,7024,21.85,,,45.07
 Davidson County,North Carolina,1665,,,,
-Davidson County,Tennessee,15927,0.21962704840836317,0.17040246122935895,0.13630941169083946,0.4736610786714384
+Davidson County,Tennessee,15927,21.96,17.04,13.63,47.37
 Davie County,North Carolina,,,,,
 Daviess County,Indiana,,,,,
 Daviess County,Kentucky,734,,,,
 Daviess County,Missouri,,,,,
 Davis County,Iowa,,,,,
-Davis County,Utah,4465,,0.26517357222844345,0.3216125419932811,0.3444568868980963
+Davis County,Utah,4465,,26.52,32.16,34.45
 Davison County,South Dakota,,,,,
 Dawes County,Nebraska,,,,,
 Dawson County,Georgia,,,,,
@@ -772,7 +772,7 @@ Decatur County,Tennessee,,,,,
 Deer Lodge County,Montana,,,,,
 Defiance County,Ohio,,,,,
 DeKalb County,Alabama,,,,,
-DeKalb County,Georgia,30613,0.216019338189658,0.13990788227223727,0.10028419298990625,0.5437885865481985
+DeKalb County,Georgia,30613,21.6,13.99,10.03,54.38
 DeKalb County,Illinois,1669,,,,
 DeKalb County,Indiana,,,,,
 DeKalb County,Missouri,,,,,
@@ -781,16 +781,16 @@ Del Norte County,California,475,,,,
 Delaware County,Indiana,783,,,,
 Delaware County,Iowa,,,,,
 Delaware County,New York,,,,,
-Delaware County,Ohio,6931,,,,0.8042129562833646
+Delaware County,Ohio,6931,,,,80.42
 Delaware County,Oklahoma,282,,,,
-Delaware County,Pennsylvania,20466,0.14467897977132807,0.18254666275774456,0.11614384833382195,0.5566305091371054
+Delaware County,Pennsylvania,20466,14.47,18.25,11.61,55.66
 Delta County,Colorado,,,,,
 Delta County,Michigan,,,,,
 Delta County,Texas,,,,,
 Denali Borough,Alaska,,,,,
 Dent County,Missouri,,,,,
-Denton County,Texas,40670,0.07794443078436193,0.1212441603147283,0.14981558888615687,0.6509958200147529
-Denver County,Colorado,17555,0.19259470236399887,0.14941612076331529,0.16103674166904017,0.4969524352036457
+Denton County,Texas,40670,7.79,12.12,14.98,65.1
+Denver County,Colorado,17555,19.26,14.94,16.1,49.7
 Des Moines County,Iowa,,,,,
 Deschutes County,Oregon,1407,,,,
 Desha County,Arkansas,,,,,
@@ -812,7 +812,7 @@ Dillingham Census Area,Alaska,,,,,
 Dillon County,South Carolina,,,,,
 Dimmit County,Texas,,,,,
 Dinwiddie County,Virginia,,,,,
-District of Columbia,District of Columbia,19603,,,,0.7970718767535582
+District of Columbia,District of Columbia,19603,,,,79.71
 Divide County,North Dakota,,,,,
 Dixie County,Florida,,,,,
 Dixon County,Nebraska,,,,,
@@ -831,13 +831,13 @@ Dorado Municipio,Puerto Rico,,,,,
 Dorchester County,Maryland,232,,,,
 Dorchester County,South Carolina,1979,,,,
 Dougherty County,Georgia,531,,,,
-Douglas County,Colorado,9521,,,0.13895599201764522,0.7365822917760739
+Douglas County,Colorado,9521,,,13.9,73.66
 Douglas County,Georgia,1740,,,,
 Douglas County,Illinois,109,,,,
-Douglas County,Kansas,2844,,,,0.7278481012658228
+Douglas County,Kansas,2844,,,,72.78
 Douglas County,Minnesota,,,,,
 Douglas County,Missouri,,,,,
-Douglas County,Nebraska,11406,0.2716991057338243,0.10126249342451342,0.10739961423812029,0.519638786603542
+Douglas County,Nebraska,11406,27.17,10.13,10.74,51.96
 Douglas County,Nevada,554,,,,
 Douglas County,Oregon,823,,,,
 Douglas County,South Dakota,,,,,
@@ -852,16 +852,16 @@ Dundy County,Nebraska,,,,,
 Dunklin County,Missouri,,,,,
 Dunn County,North Dakota,60,,,,
 Dunn County,Wisconsin,,,,,
-DuPage County,Illinois,73024,0.08206890885188431,0.07177092462751972,0.14934815950920247,0.6968120070113936
+DuPage County,Illinois,73024,8.21,7.18,14.93,69.68
 Duplin County,North Carolina,,,,,
-Durham County,North Carolina,9745,,,,0.7376090302719344
-Dutchess County,New York,7593,,,,0.6486237323850915
-Duval County,Florida,30544,0.14703378732320588,0.1876964379256155,0.20049764274489262,0.46477213200628603
+Durham County,North Carolina,9745,,,,73.76
+Dutchess County,New York,7593,,,,64.86
+Duval County,Florida,30544,14.7,18.77,20.05,46.48
 Duval County,Texas,,,,,
 Dyer County,Tennessee,201,,,,
 Eagle County,Colorado,,,,,
 Early County,Georgia,,,,,
-East Baton Rouge Parish,Louisiana,9394,0.15541835213966362,,,0.5327868852459017
+East Baton Rouge Parish,Louisiana,9394,15.54,,,53.28
 East Carroll Parish,Louisiana,,,,,
 East Feliciana Parish,Louisiana,,,,,
 Eastland County,Texas,,,,,
@@ -881,9 +881,9 @@ Edwards County,Kansas,,,,,
 Edwards County,Texas,,,,,
 Effingham County,Georgia,352,,,,
 Effingham County,Illinois,,,,,
-El Dorado County,California,5468,,,,0.5934528163862473
-El Paso County,Colorado,12572,0.15136811963092586,0.19066178810054088,0.24610244988864144,0.4118676423798918
-El Paso County,Texas,6759,,,0.23686935937268827,0.4895694629383045
+El Dorado County,California,5468,,,,59.35
+El Paso County,Colorado,12572,15.14,19.07,24.61,41.19
+El Paso County,Texas,6759,,,23.69,48.96
 Elbert County,Colorado,,,,,
 Elbert County,Georgia,,,,,
 Elk County,Kansas,,,,,
@@ -904,14 +904,14 @@ Emmet County,Michigan,153,,,,
 Emmons County,North Dakota,,,,,
 Emporia city,Virginia,,,,,
 Erath County,Texas,,,,,
-Erie County,New York,17999,0.2147897105394744,0.08294905272515139,0.1315628646035891,0.5706983721317851
+Erie County,New York,17999,21.48,8.29,13.16,57.07
 Erie County,Ohio,338,,,,
-Erie County,Pennsylvania,2561,0.3221397891448653,,,0.3943771964076533
+Erie County,Pennsylvania,2561,32.21,,,39.44
 Escambia County,Alabama,,,,,
-Escambia County,Florida,6259,,,0.29429621345262824,0.2800766895670235
+Escambia County,Florida,6259,,,29.43,28.01
 Esmeralda County,Nevada,,,,,
-Essex County,Massachusetts,17873,0.15638113355340458,0.16919375594472108,0.155877580708331,0.5185475297935433
-Essex County,New Jersey,29329,0.06590746360257765,0.12434791503290259,0.14378260424835487,0.6659620171161649
+Essex County,Massachusetts,17873,15.64,16.92,15.59,51.85
+Essex County,New Jersey,29329,6.59,12.43,14.38,66.6
 Essex County,New York,,,,,
 Essex County,Vermont,,,,,
 Essex County,Virginia,,,,,
@@ -921,15 +921,15 @@ Eureka County,Nevada,,,,,
 Evangeline Parish,Louisiana,,,,,
 Evans County,Georgia,,,,,
 Fairbanks North Star Borough,Alaska,2128,,,,
-Fairfax city,Virginia,2592,,,,0.6558641975308642
-Fairfax County,Virginia,151796,0.09541094626999394,0.12576747740388416,0.1568157263696013,0.6220058499565206
-Fairfield County,Connecticut,34473,0.09259420415977722,0.11005714617236678,0.11690308357265106,0.6804455660952049
+Fairfax city,Virginia,2592,,,,65.59
+Fairfax County,Virginia,151796,9.54,12.58,15.68,62.2
+Fairfield County,Connecticut,34473,9.26,11.01,11.69,68.04
 Fairfield County,Ohio,1523,,,,
 Fairfield County,South Carolina,,,,,
 Fajardo Municipio,Puerto Rico,,,,,
 Fall River County,South Dakota,,,,,
 Fallon County,Montana,,,,,
-Falls Church city,Virginia,1031,,,,0.7575169738118331
+Falls Church city,Virginia,1031,,,,75.75
 Falls County,Texas,,,,,
 Fannin County,Georgia,,,,,
 Fannin County,Texas,179,,,,
@@ -938,11 +938,11 @@ Faulk County,South Dakota,,,,,
 Faulkner County,Arkansas,857,,,,
 Fauquier County,Virginia,727,,,,
 Fayette County,Alabama,,,,,
-Fayette County,Georgia,3094,,,,0.5116354234001292
+Fayette County,Georgia,3094,,,,51.16
 Fayette County,Illinois,,,,,
 Fayette County,Indiana,,,,,
 Fayette County,Iowa,,,,,
-Fayette County,Kentucky,7405,,,,0.6775151924375422
+Fayette County,Kentucky,7405,,,,67.75
 Fayette County,Ohio,,,,,
 Fayette County,Pennsylvania,,,,,
 Fayette County,Tennessee,142,,,,
@@ -955,10 +955,10 @@ Fillmore County,Minnesota,62,,,,
 Fillmore County,Nebraska,,,,,
 Finney County,Kansas,813,,,,
 Fisher County,Texas,,,,,
-Flagler County,Florida,2012,,,,0.42992047713717696
+Flagler County,Florida,2012,,,,42.99
 Flathead County,Montana,,,,,
 Fleming County,Kentucky,,,,,
-Florence County,South Carolina,1396,,,,0.6146131805157593
+Florence County,South Carolina,1396,,,,61.46
 Florence County,Wisconsin,,,,,
 Florida Municipio,Puerto Rico,,,,,
 Floyd County,Georgia,912,,,,
@@ -975,9 +975,9 @@ Ford County,Kansas,430,,,,
 Forest County,Pennsylvania,,,,,
 Forest County,Wisconsin,,,,,
 Forrest County,Mississippi,436,,,,
-Forsyth County,Georgia,14067,,,0.09440534584488519,0.7829672282647331
-Forsyth County,North Carolina,5246,,,,0.5730080060998857
-Fort Bend County,Texas,91077,0.09511731831307575,0.10786477376286,0.15525324725232495,0.6417646606717393
+Forsyth County,Georgia,14067,,,9.44,78.3
+Forsyth County,North Carolina,5246,,,,57.3
+Fort Bend County,Texas,91077,9.51,10.79,15.53,64.18
 Foster County,North Dakota,,,,,
 Fountain County,Indiana,,,,,
 Franklin city,Virginia,,,,,
@@ -998,7 +998,7 @@ Franklin County,Missouri,383,,,,
 Franklin County,Nebraska,,,,,
 Franklin County,New York,178,,,,
 Franklin County,North Carolina,,,,,
-Franklin County,Ohio,40277,0.13486605258584303,0.13449363160116196,0.12302306527298458,0.6076172505400105
+Franklin County,Ohio,40277,13.49,13.45,12.3,60.76
 Franklin County,Pennsylvania,971,,,,
 Franklin County,Tennessee,,,,,
 Franklin County,Texas,,,,,
@@ -1006,7 +1006,7 @@ Franklin County,Vermont,,,,,
 Franklin County,Virginia,,,,,
 Franklin County,Washington,1403,,,,
 Franklin Parish,Louisiana,,,,,
-Frederick County,Maryland,7346,,,0.18037026953444052,0.5725564933297033
+Frederick County,Maryland,7346,,,18.04,57.26
 Frederick County,Virginia,851,,,,
 Fredericksburg city,Virginia,394,,,,
 Freeborn County,Minnesota,335,,,,
@@ -1015,11 +1015,11 @@ Fremont County,Colorado,,,,,
 Fremont County,Idaho,,,,,
 Fremont County,Iowa,,,,,
 Fremont County,Wyoming,,,,,
-Fresno County,California,59485,0.2600487517861646,0.19036731949230898,0.2545851895435824,0.294998739177944
+Fresno County,California,59485,26,19.04,25.46,29.5
 Frio County,Texas,,,,,
 Frontier County,Nebraska,,,,,
 Fulton County,Arkansas,,,,,
-Fulton County,Georgia,44863,,0.08265162829057353,0.08091300180549674,0.790941310211087
+Fulton County,Georgia,44863,,8.27,8.09,79.09
 Fulton County,Illinois,,,,,
 Fulton County,Indiana,,,,,
 Fulton County,Kentucky,,,,,
@@ -1033,9 +1033,9 @@ Gaines County,Texas,,,,,
 Galax city,Virginia,,,,,
 Gallatin County,Illinois,,,,,
 Gallatin County,Kentucky,,,,,
-Gallatin County,Montana,795,,,,0.6339622641509434
+Gallatin County,Montana,795,,,,63.4
 Gallia County,Ohio,,,,,
-Galveston County,Texas,7553,,,,0.5471997881636436
+Galveston County,Texas,7553,,,,54.72
 Garden County,Nebraska,,,,,
 Garfield County,Colorado,,,,,
 Garfield County,Montana,,,,,
@@ -1049,12 +1049,12 @@ Garrett County,Maryland,,,,,
 Garvin County,Oklahoma,,,,,
 Garza County,Texas,,,,,
 Gasconade County,Missouri,,,,,
-Gaston County,North Carolina,2056,,,,0.5408560311284046
+Gaston County,North Carolina,2056,,,,54.09
 Gates County,North Carolina,,,,,
 Geary County,Kansas,915,,,,
 Geauga County,Ohio,394,,,,
 Gem County,Idaho,,,,,
-Genesee County,Michigan,3053,,,,0.6003930560104815
+Genesee County,Michigan,3053,,,,60.04
 Genesee County,New York,297,,,,
 Geneva County,Alabama,,,,,
 Gentry County,Missouri,,,,,
@@ -1077,7 +1077,7 @@ Gladwin County,Michigan,,,,,
 Glascock County,Georgia,,,,,
 Glasscock County,Texas,,,,,
 Glenn County,California,512,,,,
-Gloucester County,New Jersey,5692,,,,0.5045678144764582
+Gloucester County,New Jersey,5692,,,,50.46
 Gloucester County,Virginia,,,,,
 Glynn County,Georgia,795,,,,
 Gogebic County,Michigan,,,,,
@@ -1094,7 +1094,7 @@ Gosper County,Nebraska,,,,,
 Gove County,Kansas,,,,,
 Grady County,Georgia,,,,,
 Grady County,Oklahoma,,,,,
-Grafton County,New Hampshire,1588,,,,0.681360201511335
+Grafton County,New Hampshire,1588,,,,68.14
 Graham County,Arizona,,,,,
 Graham County,Kansas,,,,,
 Graham County,North Carolina,,,,,
@@ -1142,17 +1142,17 @@ Greene County,Illinois,,,,,
 Greene County,Indiana,,,,,
 Greene County,Iowa,,,,,
 Greene County,Mississippi,,,,,
-Greene County,Missouri,2945,,,,0.49303904923599323
+Greene County,Missouri,2945,,,,49.3
 Greene County,New York,316,,,,
 Greene County,North Carolina,,,,,
-Greene County,Ohio,3307,,,,0.7351073480495918
+Greene County,Ohio,3307,,,,73.51
 Greene County,Pennsylvania,98,,,,
 Greene County,Tennessee,,,,,
 Greene County,Virginia,180,,,,
 Greenlee County,Arizona,,,,,
 Greensville County,Virginia,,,,,
 Greenup County,Kentucky,115,,,,
-Greenville County,South Carolina,7395,,,0.167816091954023,0.5376605814739689
+Greenville County,South Carolina,7395,,,16.78,53.77
 Greenwood County,Kansas,,,,,
 Greenwood County,South Carolina,487,,,,
 Greer County,Oklahoma,,,,,
@@ -1166,18 +1166,18 @@ Grundy County,Iowa,,,,,
 Grundy County,Missouri,,,,,
 Grundy County,Tennessee,,,,,
 Guadalupe County,New Mexico,,,,,
-Guadalupe County,Texas,1786,,,,0.5291153415453528
+Guadalupe County,Texas,1786,,,,52.91
 Guánica Municipio,Puerto Rico,,,,,
 Guayama Municipio,Puerto Rico,,,,,
 Guayanilla Municipio,Puerto Rico,,,,,
 Guaynabo Municipio,Puerto Rico,,,,,
 Guernsey County,Ohio,,,,,
-Guilford County,North Carolina,15523,0.26818269664369,0.17702763641048766,0.15647748502222508,0.39831218192359724
+Guilford County,North Carolina,15523,26.82,17.7,15.65,39.83
 Gulf County,Florida,,,,,
 Gunnison County,Colorado,,,,,
 Gurabo Municipio,Puerto Rico,,,,,
 Guthrie County,Iowa,,,,,
-Gwinnett County,Georgia,68723,0.1575455087816306,0.22397159611774806,0.19769218456702997,0.42079071053359135
+Gwinnett County,Georgia,68723,15.75,22.4,19.77,42.08
 Haakon County,South Dakota,,,,,
 Habersham County,Georgia,649,,,,
 Haines Borough,Alaska,,,,,
@@ -1191,17 +1191,17 @@ Hall County,Texas,,,,,
 Hamblen County,Tennessee,388,,,,
 Hamilton County,Florida,,,,,
 Hamilton County,Illinois,,,,,
-Hamilton County,Indiana,11392,,,,0.7460498595505618
+Hamilton County,Indiana,11392,,,,74.6
 Hamilton County,Iowa,,,,,
 Hamilton County,Kansas,,,,,
 Hamilton County,Nebraska,,,,,
 Hamilton County,New York,,,,,
-Hamilton County,Ohio,13413,,,0.11019160515917394,0.6769551927234773
-Hamilton County,Tennessee,4917,,,,0.477526947325605
+Hamilton County,Ohio,13413,,,11.02,67.7
+Hamilton County,Tennessee,4917,,,,47.75
 Hamilton County,Texas,,,,,
 Hamlin County,South Dakota,,,,,
-Hampden County,Massachusetts,6875,0.2434909090909091,,,0.3874909090909091
-Hampshire County,Massachusetts,3649,,,,0.5883803781858044
+Hampden County,Massachusetts,6875,24.35,,,38.75
+Hampshire County,Massachusetts,3649,,,,58.84
 Hampshire County,West Virginia,,,,,
 Hampton city,Virginia,2345,,,,
 Hampton County,South Carolina,,,,,
@@ -1210,7 +1210,7 @@ Hancock County,Illinois,64,,,,
 Hancock County,Indiana,,,,,
 Hancock County,Iowa,,,,,
 Hancock County,Kentucky,,,,,
-Hancock County,Maine,436,,,,0.7201834862385321
+Hancock County,Maine,436,,,,72.02
 Hancock County,Mississippi,,,,,
 Hancock County,Ohio,890,,,,
 Hancock County,Tennessee,,,,,
@@ -1232,7 +1232,7 @@ Hardin County,Texas,,,,,
 Harding County,New Mexico,,,,,
 Harding County,South Dakota,,,,,
 Hardy County,West Virginia,,,,,
-Harford County,Maryland,4859,,,0.23708582012759827,0.5326198806338753
+Harford County,Maryland,4859,,,23.71,53.26
 Harlan County,Kentucky,,,,,
 Harlan County,Nebraska,,,,,
 Harmon County,Oklahoma,28,,,,
@@ -1241,11 +1241,11 @@ Harney County,Oregon,,,,,
 Harper County,Kansas,,,,,
 Harper County,Oklahoma,,,,,
 Harris County,Georgia,,,,,
-Harris County,Texas,220331,0.14180483000576405,0.15248421692816716,0.1704617144205763,0.5352492386454925
+Harris County,Texas,220331,14.18,15.25,17.05,53.52
 Harrison County,Indiana,,,,,
 Harrison County,Iowa,,,,,
 Harrison County,Kentucky,,,,,
-Harrison County,Mississippi,4015,0.2816936488169365,,,
+Harrison County,Mississippi,4015,28.17,,,
 Harrison County,Missouri,,,,,
 Harrison County,Ohio,,,,,
 Harrison County,Texas,,,,,
@@ -1253,14 +1253,14 @@ Harrison County,West Virginia,253,,,,
 Harrisonburg city,Virginia,809,,,,
 Hart County,Georgia,206,,,,
 Hart County,Kentucky,,,,,
-Hartford County,Connecticut,31083,0.10365794807451018,0.10555609175433517,0.1113470385741402,0.6794389215970145
+Hartford County,Connecticut,31083,10.37,10.56,11.13,67.94
 Hartley County,Texas,,,,,
 Harvey County,Kansas,,,,,
 Haskell County,Kansas,,,,,
 Haskell County,Oklahoma,,,,,
 Haskell County,Texas,,,,,
 Hatillo Municipio,Puerto Rico,,,,,
-Hawaii County,Hawaii,34726,0.08811841271669642,0.3108333813281115,0.29882508783044404,0.302223118124748
+Hawaii County,Hawaii,34726,8.81,31.08,29.88,30.22
 Hawkins County,Tennessee,223,,,,
 Hayes County,Nebraska,,,,,
 Hays County,Texas,1748,,,,
@@ -1276,8 +1276,8 @@ Henderson County,Tennessee,,,,,
 Henderson County,Texas,332,,,,
 Hendricks County,Indiana,2710,,,,
 Hendry County,Florida,217,,,,
-Hennepin County,Minnesota,54387,0.1516906613712836,0.13323036755106918,0.19508338389688712,0.5199955871807601
-Henrico County,Virginia,18003,0.11614730878186968,,0.11153696606121202,0.6547242126312282
+Hennepin County,Minnesota,54387,15.17,13.32,19.51,52
+Henrico County,Virginia,18003,11.61,,11.15,65.47
 Henry County,Alabama,,,,,
 Henry County,Georgia,4723,,,,
 Henry County,Illinois,159,,,,
@@ -1296,14 +1296,14 @@ Hickman County,Kentucky,,,,,
 Hickman County,Tennessee,,,,,
 Hickory County,Missouri,,,,,
 Hidalgo County,New Mexico,,,,,
-Hidalgo County,Texas,5310,,,,0.6357815442561205
+Hidalgo County,Texas,5310,,,,63.58
 Highland County,Ohio,98,,,,
 Highland County,Virginia,,,,,
 Highlands County,Florida,1075,,,,
 Hill County,Montana,,,,,
 Hill County,Texas,,,,,
-Hillsborough County,Florida,37645,0.11903307212113162,0.13768096692787887,0.16644972771948466,0.5768362332315049
-Hillsborough County,New Hampshire,10445,,,,0.6384873145045477
+Hillsborough County,Florida,37645,11.9,13.77,16.64,57.68
+Hillsborough County,New Hampshire,10445,,,,63.85
 Hillsdale County,Michigan,110,,,,
 Hinds County,Mississippi,1325,,,,
 Hinsdale County,Colorado,,,,,
@@ -1317,7 +1317,7 @@ Holmes County,Mississippi,,,,,
 Holmes County,Ohio,,,,,
 Holt County,Missouri,,,,,
 Holt County,Nebraska,,,,,
-Honolulu County,Hawaii,335441,0.11746327968256713,0.24678259366028601,0.28666143971667146,0.34909268694047535
+Honolulu County,Hawaii,335441,11.75,24.68,28.67,34.91
 Hood County,Texas,,,,,
 Hood River County,Oregon,315,,,,
 Hooker County,Nebraska,,,,,
@@ -1338,13 +1338,13 @@ Houston County,Texas,,,,,
 Howard County,Arkansas,,,,,
 Howard County,Indiana,622,,,,
 Howard County,Iowa,,,,,
-Howard County,Maryland,36763,0.07107689796806572,0.09852297146587602,0.11593177923455648,0.7144683513315018
+Howard County,Maryland,36763,7.11,9.85,11.59,71.45
 Howard County,Missouri,,,,,
 Howard County,Nebraska,,,,,
 Howard County,Texas,238,,,,
 Howell County,Missouri,,,,,
 Hubbard County,Minnesota,87,,,,
-Hudson County,New Jersey,78363,0.07276393195768412,0.09251815269961589,0.1156795936857956,0.7190383216569044
+Hudson County,New Jersey,78363,7.28,9.25,11.57,71.9
 Hudspeth County,Texas,,,,,
 Huerfano County,Colorado,,,,,
 Hughes County,Oklahoma,,,,,
@@ -1356,7 +1356,7 @@ Humboldt County,Nevada,,,,,
 Humphreys County,Mississippi,,,,,
 Humphreys County,Tennessee,,,,,
 Hunt County,Texas,626,,,,
-Hunterdon County,New Jersey,3470,,,,0.6668587896253603
+Hunterdon County,New Jersey,3470,,,,66.69
 Huntingdon County,Pennsylvania,,,,,
 Huntington County,Indiana,192,,,,
 Huron County,Michigan,132,,,,
@@ -1373,13 +1373,13 @@ Imperial County,California,1831,,,,
 Independence County,Arkansas,194,,,,
 Indian River County,Florida,1271,,,,
 Indiana County,Pennsylvania,513,,,,
-Ingham County,Michigan,8967,,,,0.6941005910560946
+Ingham County,Michigan,8967,,,,69.41
 Inyo County,California,,,,,
 Ionia County,Michigan,,,,,
 Iosco County,Michigan,,,,,
 Iowa County,Iowa,,,,,
 Iowa County,Wisconsin,133,,,,
-Iredell County,North Carolina,2716,,,,0.5625920471281296
+Iredell County,North Carolina,2716,,,,56.26
 Irion County,Texas,,,,,
 Iron County,Michigan,50,,,,
 Iron County,Missouri,,,,,
@@ -1407,10 +1407,10 @@ Jackson County,Indiana,634,,,,
 Jackson County,Iowa,85,,,,
 Jackson County,Kansas,,,,,
 Jackson County,Kentucky,,,,,
-Jackson County,Michigan,778,,,,0.5732647814910026
+Jackson County,Michigan,778,,,,57.33
 Jackson County,Minnesota,,,,,
 Jackson County,Mississippi,2251,,,,
-Jackson County,Missouri,8435,0.18814463544754,0.1825726141078838,0.1990515708358032,0.430231179608773
+Jackson County,Missouri,8435,18.81,18.26,19.91,43.02
 Jackson County,North Carolina,,,,,
 Jackson County,Ohio,,,,,
 Jackson County,Oklahoma,271,,,,
@@ -1434,9 +1434,9 @@ Jay County,Indiana,,,,,
 Jayuya Municipio,Puerto Rico,,,,,
 Jeff Davis County,Georgia,,,,,
 Jeff Davis County,Texas,,,,,
-Jefferson County,Alabama,6968,,,,0.6046211251435132
+Jefferson County,Alabama,6968,,,,60.46
 Jefferson County,Arkansas,443,,,,
-Jefferson County,Colorado,10784,0.1104413946587537,0.17219955489614244,0.21689540059347182,0.500463649851632
+Jefferson County,Colorado,10784,11.04,17.22,21.69,50.05
 Jefferson County,Florida,,,,,
 Jefferson County,Georgia,,,,,
 Jefferson County,Idaho,,,,,
@@ -1444,7 +1444,7 @@ Jefferson County,Illinois,302,,,,
 Jefferson County,Indiana,135,,,,
 Jefferson County,Iowa,,,,,
 Jefferson County,Kansas,,,,,
-Jefferson County,Kentucky,13083,0.15065351983490025,0.13689520752121073,0.171978903921119,0.54047236872277
+Jefferson County,Kentucky,13083,15.07,13.69,17.2,54.05
 Jefferson County,Mississippi,,,,,
 Jefferson County,Missouri,1133,,,,
 Jefferson County,Montana,,,,,
@@ -1455,13 +1455,13 @@ Jefferson County,Oklahoma,,,,,
 Jefferson County,Oregon,,,,,
 Jefferson County,Pennsylvania,87,,,,
 Jefferson County,Tennessee,,,,,
-Jefferson County,Texas,6080,0.2881578947368421,0.1986842105263158,,0.3503289473684211
+Jefferson County,Texas,6080,28.82,19.87,,35.03
 Jefferson County,Washington,405,,,,
 Jefferson County,West Virginia,612,,,,
 Jefferson County,Wisconsin,345,,,,
 Jefferson Davis County,Mississippi,,,,,
 Jefferson Davis Parish,Louisiana,,,,,
-Jefferson Parish,Louisiana,12900,0.2594573643410853,0.18806201550387597,0.17472868217054263,0.37775193798449613
+Jefferson Parish,Louisiana,12900,25.95,18.81,17.47,37.78
 Jenkins County,Georgia,,,,,
 Jennings County,Indiana,,,,,
 Jerauld County,South Dakota,,,,,
@@ -1476,8 +1476,8 @@ Johnson County,Arkansas,,,,,
 Johnson County,Georgia,,,,,
 Johnson County,Illinois,,,,,
 Johnson County,Indiana,2874,,,,
-Johnson County,Iowa,4704,,,,0.7670068027210885
-Johnson County,Kansas,18286,0.07595975062889643,0.09827190200153123,0.14120091873564475,0.6845674286339276
+Johnson County,Iowa,4704,,,,76.7
+Johnson County,Kansas,18286,7.6,9.83,14.12,68.46
 Johnson County,Kentucky,,,,,
 Johnson County,Missouri,,,,,
 Johnson County,Nebraska,,,,,
@@ -1500,17 +1500,17 @@ Juncos Municipio,Puerto Rico,,,,,
 Juneau City and Borough,Alaska,1538,,,,
 Juneau County,Wisconsin,104,,,,
 Juniata County,Pennsylvania,,,,,
-Kalamazoo County,Michigan,3705,,,,0.6963562753036437
+Kalamazoo County,Michigan,3705,,,,69.64
 Kalawao County,Hawaii,,,,,
 Kalkaska County,Michigan,,,,,
 Kanabec County,Minnesota,,,,,
-Kanawha County,West Virginia,1514,,,,0.7173051519154557
+Kanawha County,West Virginia,1514,,,,71.73
 Kandiyohi County,Minnesota,,,,,
-Kane County,Illinois,13868,0.1359965387943467,,0.21221517161811365,0.5434813960196135
+Kane County,Illinois,13868,13.6,,21.22,54.35
 Kane County,Utah,,,,,
 Kankakee County,Illinois,687,,,,
 Karnes County,Texas,,,,,
-Kauai County,Hawaii,19105,0.12237634127191835,0.3570269562941638,0.2929076158073803,0.22768908662653756
+Kauai County,Hawaii,19105,12.24,35.7,29.29,22.77
 Kaufman County,Texas,773,,,,
 Kay County,Oklahoma,,,,,
 Kearney County,Nebraska,,,,,
@@ -1525,12 +1525,12 @@ Kennebec County,Maine,574,,,,
 Kenosha County,Wisconsin,1677,,,,
 Kent County,Delaware,2445,,,,
 Kent County,Maryland,,,,,
-Kent County,Michigan,11560,0.2523356401384083,0.1892733564013841,0.17240484429065744,0.38598615916955015
-Kent County,Rhode Island,2861,,,,0.49702901083537226
+Kent County,Michigan,11560,25.23,18.93,17.24,38.6
+Kent County,Rhode Island,2861,,,,49.7
 Kent County,Texas,,,,,
 Kenton County,Kentucky,1495,,,,
 Keokuk County,Iowa,,,,,
-Kern County,California,28124,0.21312757786943537,0.18926895178495234,0.2430308633195847,0.3545726070260276
+Kern County,California,28124,21.31,18.93,24.3,35.46
 Kerr County,Texas,376,,,,
 Kershaw County,South Carolina,,,,,
 Ketchikan Gateway Borough,Alaska,776,,,,
@@ -1542,20 +1542,20 @@ Kimball County,Nebraska,,,,,
 Kimble County,Texas,,,,,
 King and Queen County,Virginia,,,,,
 King County,Texas,,,,,
-King County,Washington,251677,0.11765477179082713,0.1271272305375541,0.17725894698363379,0.577959050687985
+King County,Washington,251677,11.77,12.71,17.73,57.8
 King George County,Virginia,245,,,,
 King William County,Virginia,136,,,,
 Kingfisher County,Oklahoma,,,,,
 Kingman County,Kansas,,,,,
-Kings County,California,4032,,,0.3551587301587302,0.34771825396825395
-Kings County,New York,220300,0.35688152519291877,0.19482069904675442,0.11770767135724013,0.3305901044030867
+Kings County,California,4032,,,35.52,34.77
+Kings County,New York,220300,35.69,19.48,11.77,33.06
 Kingsbury County,South Dakota,,,,,
 Kinney County,Texas,,,,,
 Kiowa County,Colorado,,,,,
 Kiowa County,Kansas,,,,,
 Kiowa County,Oklahoma,,,,,
 Kit Carson County,Colorado,,,,,
-Kitsap County,Washington,9426,0.1092722257585402,0.21101209420751113,0.34383619775090174,0.33587948228304687
+Kitsap County,Washington,9426,10.93,21.1,34.38,33.59
 Kittitas County,Washington,389,,,,
 Kittson County,Minnesota,,,,,
 Klamath County,Oregon,444,,,,
@@ -1569,7 +1569,7 @@ Knox County,Maine,,,,,
 Knox County,Missouri,,,,,
 Knox County,Nebraska,,,,,
 Knox County,Ohio,,,,,
-Knox County,Tennessee,6409,,,,0.6557965361210797
+Knox County,Tennessee,6409,,,,65.58
 Knox County,Texas,,,,,
 Kodiak Island Borough,Alaska,2011,,,,
 Koochiching County,Minnesota,,,,,
@@ -1577,13 +1577,13 @@ Kootenai County,Idaho,729,,,,
 Kosciusko County,Indiana,606,,,,
 Kossuth County,Iowa,,,,,
 Kusilvak Census Area,Alaska,,,,,
-La Crosse County,Wisconsin,2582,,,0.4701781564678544,
+La Crosse County,Wisconsin,2582,,,47.02,
 La Paz County,Arizona,,,,,
 La Plata County,Colorado,,,,,
 La Salle County,Texas,,,,,
 Labette County,Kansas,,,,,
 Lac qui Parle County,Minnesota,,,,,
-Lackawanna County,Pennsylvania,3473,,,,0.3296861503023323
+Lackawanna County,Pennsylvania,3473,,,,32.97
 Laclede County,Missouri,,,,,
 Lafayette County,Arkansas,,,,,
 Lafayette County,Florida,,,,,
@@ -1597,13 +1597,13 @@ Lajas Municipio,Puerto Rico,,,,,
 Lake and Peninsula Borough,Alaska,,,,,
 Lake County,California,,,,,
 Lake County,Colorado,,,,,
-Lake County,Florida,4456,,,,0.4573608617594255
-Lake County,Illinois,34451,0.049084206554236454,0.07964935705785028,0.15044556036109258,0.7208208760268207
-Lake County,Indiana,4516,,,,0.5356510186005314
+Lake County,Florida,4456,,,,45.74
+Lake County,Illinois,34451,4.91,7.96,15.04,72.08
+Lake County,Indiana,4516,,,,53.57
 Lake County,Michigan,,,,,
 Lake County,Minnesota,,,,,
 Lake County,Montana,,,,,
-Lake County,Ohio,2216,,,,0.598826714801444
+Lake County,Ohio,2216,,,,59.88
 Lake County,Oregon,,,,,
 Lake County,South Dakota,,,,,
 Lake County,Tennessee,,,,,
@@ -1616,20 +1616,20 @@ Lamb County,Texas,,,,,
 Lamoille County,Vermont,,,,,
 LaMoure County,North Dakota,,,,,
 Lampasas County,Texas,,,,,
-Lancaster County,Nebraska,7443,0.19696358995028887,0.21442966545747683,,0.43154641945452105
-Lancaster County,Pennsylvania,7283,0.2667856652478374,0.20211451325003432,,0.3911849512563504
+Lancaster County,Nebraska,7443,19.7,21.44,,43.15
+Lancaster County,Pennsylvania,7283,26.68,20.21,,39.12
 Lancaster County,South Carolina,578,,,,
 Lancaster County,Virginia,,,,,
 Lander County,Nevada,,,,,
 Lane County,Kansas,,,,,
-Lane County,Oregon,4881,,,0.2644949805367752,0.544560540872772
+Lane County,Oregon,4881,,,26.45,54.46
 Langlade County,Wisconsin,,,,,
 Lanier County,Georgia,,,,,
 Lapeer County,Michigan,,,,,
 LaPorte County,Indiana,450,,,,
 Laramie County,Wyoming,829,,,,
 Lares Municipio,Puerto Rico,,,,,
-Larimer County,Colorado,4077,,,,0.6897228354181997
+Larimer County,Colorado,4077,,,,68.97
 Larue County,Kentucky,,,,,
 Las Animas County,Colorado,,,,,
 Las Marías Municipio,Puerto Rico,,,,,
@@ -1663,9 +1663,9 @@ Lea County,New Mexico,,,,,
 Leake County,Mississippi,,,,,
 Leavenworth County,Kansas,797,,,,
 Lebanon County,Pennsylvania,1153,,,,
-Lee County,Alabama,3667,,,,0.6293973275156803
+Lee County,Alabama,3667,,,,62.94
 Lee County,Arkansas,,,,,
-Lee County,Florida,8076,,0.2815750371471025,0.23712233779098563,0.3746904408122833
+Lee County,Florida,8076,,28.16,23.71,37.47
 Lee County,Georgia,421,,,,
 Lee County,Illinois,187,,,,
 Lee County,Iowa,,,,,
@@ -1677,11 +1677,11 @@ Lee County,Texas,,,,,
 Lee County,Virginia,,,,,
 Leelanau County,Michigan,79,,,,
 Leflore County,Mississippi,,,,,
-Lehigh County,Pennsylvania,8274,,,0.14865844815083393,0.5748126661832246
+Lehigh County,Pennsylvania,8274,,,14.87,57.48
 Lemhi County,Idaho,,,,,
 Lenawee County,Michigan,247,,,,
 Lenoir County,North Carolina,,,,,
-Leon County,Florida,5991,,,,0.8102153229844767
+Leon County,Florida,5991,,,,81.02
 Leon County,Texas,,,,,
 Leslie County,Kentucky,,,,,
 Letcher County,Kentucky,,,,,
@@ -1695,7 +1695,7 @@ Lewis County,Tennessee,,,,,
 Lewis County,Washington,608,,,,
 Lewis County,West Virginia,,,,,
 Lexington city,Virginia,,,,,
-Lexington County,South Carolina,3284,,,,0.5240560292326432
+Lexington County,South Carolina,3284,,,,52.41
 Liberty County,Florida,,,,,
 Liberty County,Georgia,912,,,,
 Liberty County,Montana,,,,,
@@ -1727,17 +1727,17 @@ Lincoln County,West Virginia,,,,,
 Lincoln County,Wisconsin,,,,,
 Lincoln County,Wyoming,,,,,
 Lincoln Parish,Louisiana,,,,,
-Linn County,Iowa,3232,,,,0.6271658415841584
+Linn County,Iowa,3232,,,,62.72
 Linn County,Kansas,,,,,
 Linn County,Missouri,,,,,
 Linn County,Oregon,,,,,
 Lipscomb County,Texas,,,,,
-Litchfield County,Connecticut,2285,,,,0.4656455142231947
+Litchfield County,Connecticut,2285,,,,46.56
 Little River County,Arkansas,,,,,
 Live Oak County,Texas,,,,,
 Livingston County,Illinois,144,,,,
 Livingston County,Kentucky,,,,,
-Livingston County,Michigan,1160,,,,0.6008620689655172
+Livingston County,Michigan,1160,,,,60.09
 Livingston County,Missouri,48,,,,
 Livingston County,New York,,,,,
 Livingston Parish,Louisiana,,,,,
@@ -1755,11 +1755,11 @@ Logan County,West Virginia,,,,,
 Loíza Municipio,Puerto Rico,,,,,
 Long County,Georgia,,,,,
 Lonoke County,Arkansas,363,,,,
-Lorain County,Ohio,1785,,,,0.5831932773109244
-Los Alamos County,New Mexico,748,,,,0.9157754010695187
-Los Angeles County,California,1101040,0.12317990263750636,0.14869032914335537,0.2182763568989319,0.5098534113202063
+Lorain County,Ohio,1785,,,,58.32
+Los Alamos County,New Mexico,748,,,,91.58
+Los Angeles County,California,1101040,12.32,14.87,21.83,50.99
 Loudon County,Tennessee,,,,,
-Loudoun County,Virginia,42484,0.07918275115337539,0.07092081724884662,0.12350531964975049,0.7263911119480275
+Loudoun County,Virginia,42484,7.92,7.09,12.35,72.64
 Louisa County,Iowa,233,,,,
 Louisa County,Virginia,,,,,
 Loup County,Nebraska,,,,,
@@ -1768,15 +1768,15 @@ Loving County,Texas,,,,,
 Lowndes County,Alabama,,,,,
 Lowndes County,Georgia,1472,,,,
 Lowndes County,Mississippi,,,,,
-Lubbock County,Texas,3814,,,,0.6934976402726796
+Lubbock County,Texas,3814,,,,69.35
 Lucas County,Iowa,,,,,
-Lucas County,Ohio,5122,,,,0.5745802420929325
+Lucas County,Ohio,5122,,,,57.46
 Luce County,Michigan,,,,,
 Lumpkin County,Georgia,,,,,
 Luna County,New Mexico,,,,,
 Lunenburg County,Virginia,,,,,
 Luquillo Municipio,Puerto Rico,,,,,
-Luzerne County,Pennsylvania,2454,,,,0.519559902200489
+Luzerne County,Pennsylvania,2454,,,,51.96
 Lycoming County,Pennsylvania,447,,,,
 Lyman County,South Dakota,,,,,
 Lynchburg city,Virginia,1165,,,,
@@ -1787,7 +1787,7 @@ Lyon County,Kentucky,,,,,
 Lyon County,Minnesota,413,,,,
 Lyon County,Nevada,,,,,
 Mackinac County,Michigan,,,,,
-Macomb County,Michigan,20828,0.15099865565584789,0.14456500864221242,0.23204340311119648,0.4723929325907432
+Macomb County,Michigan,20828,15.1,14.46,23.2,47.24
 Macon County,Alabama,,,,,
 Macon County,Georgia,,,,,
 Macon County,Illinois,811,,,,
@@ -1796,7 +1796,7 @@ Macon County,North Carolina,,,,,
 Macon County,Tennessee,,,,,
 Macoupin County,Illinois,122,,,,
 Madera County,California,2157,,,,
-Madison County,Alabama,6458,,,,0.5896562403220812
+Madison County,Alabama,6458,,,,58.97
 Madison County,Arkansas,,,,,
 Madison County,Florida,,,,,
 Madison County,Georgia,311,,,,
@@ -1819,35 +1819,35 @@ Madison Parish,Louisiana,,,,,
 Magoffin County,Kentucky,,,,,
 Mahaska County,Iowa,186,,,,
 Mahnomen County,Minnesota,,,,,
-Mahoning County,Ohio,1259,,,,0.6171564733915806
+Mahoning County,Ohio,1259,,,,61.72
 Major County,Oklahoma,,,,,
 Malheur County,Oregon,393,,,,
-Manassas city,Virginia,1618,,,,0.5451174289245982
+Manassas city,Virginia,1618,,,,54.51
 Manassas Park city,Virginia,1191,,,,
-Manatee County,Florida,4988,,,,0.5322774659182037
+Manatee County,Florida,4988,,,,53.23
 Manatí Municipio,Puerto Rico,,,,,
 Manistee County,Michigan,,,,,
 Manitowoc County,Wisconsin,1107,,,,
-Marathon County,Wisconsin,3567,0.2514718250630782,0.32127838519764507,,
+Marathon County,Wisconsin,3567,25.15,32.13,,
 Marengo County,Alabama,,,,,
 Maricao Municipio,Puerto Rico,,,,,
-Maricopa County,Arizona,113978,0.12587516889224237,0.11900542209900156,0.18625524223973047,0.5688641667690256
+Maricopa County,Arizona,113978,12.59,11.9,18.63,56.89
 Maries County,Missouri,,,,,
-Marin County,California,12036,,,0.19715852442671983,0.6189764041209704
+Marin County,California,12036,,,19.72,61.9
 Marinette County,Wisconsin,157,,,,
 Marion County,Alabama,,,,,
 Marion County,Arkansas,,,,,
 Marion County,Florida,3812,,,,
 Marion County,Georgia,,,,,
 Marion County,Illinois,201,,,,
-Marion County,Indiana,17035,0.2271206339888465,0.19483416495450542,0.10930437334898738,0.4687408277076607
+Marion County,Indiana,17035,22.71,19.48,10.93,46.87
 Marion County,Iowa,,,,,
 Marion County,Kansas,,,,,
 Marion County,Kentucky,,,,,
 Marion County,Mississippi,,,,,
 Marion County,Missouri,,,,,
 Marion County,Ohio,268,,,,
-Marion County,Oregon,4507,,,0.31284668293765255,0.337475038828489
+Marion County,Oregon,4507,,,31.28,33.75
 Marion County,South Carolina,,,,,
 Marion County,Tennessee,,,,,
 Marion County,Texas,,,,,
@@ -1885,7 +1885,7 @@ Massac County,Illinois,,,,,
 Matagorda County,Texas,409,,,,
 Matanuska-Susitna Borough,Alaska,854,,,,
 Mathews County,Virginia,,,,,
-Maui County,Hawaii,36897,0.12028078163536331,0.33685665501260265,0.30539068216928206,0.23747188118275198
+Maui County,Hawaii,36897,12.03,33.69,30.54,23.75
 Maunabo Municipio,Puerto Rico,,,,,
 Maury County,Tennessee,561,,,,
 Maverick County,Texas,,,,,
@@ -1904,7 +1904,7 @@ McDonough County,Illinois,,,,,
 McDowell County,North Carolina,245,,,,
 McDowell County,West Virginia,,,,,
 McDuffie County,Georgia,,,,,
-McHenry County,Illinois,5629,,,,0.6438088470421034
+McHenry County,Illinois,5629,,,,64.38
 McHenry County,North Dakota,,,,,
 McIntosh County,Georgia,,,,,
 McIntosh County,North Dakota,,,,,
@@ -1912,10 +1912,10 @@ McIntosh County,Oklahoma,,,,,
 McKean County,Pennsylvania,,,,,
 McKenzie County,North Dakota,,,,,
 McKinley County,New Mexico,454,,,,
-McLean County,Illinois,5604,,,,0.8112062812276946
+McLean County,Illinois,5604,,,,81.12
 McLean County,Kentucky,,,,,
 McLean County,North Dakota,,,,,
-McLennan County,Texas,2009,,,,0.5594823295171727
+McLennan County,Texas,2009,,,,55.95
 McLeod County,Minnesota,,,,,
 McMinn County,Tennessee,,,,,
 McMullen County,Texas,,,,,
@@ -1927,10 +1927,10 @@ Meade County,Kansas,,,,,
 Meade County,Kentucky,,,,,
 Meade County,South Dakota,,,,,
 Meagher County,Montana,,,,,
-Mecklenburg County,North Carolina,38767,0.17282740475146388,0.12126292981143756,0.1461810302576934,0.5597286351794052
+Mecklenburg County,North Carolina,38767,17.28,12.13,14.62,55.97
 Mecklenburg County,Virginia,,,,,
 Mecosta County,Michigan,,,,,
-Medina County,Ohio,1407,,,,0.6226012793176973
+Medina County,Ohio,1407,,,,62.26
 Medina County,Texas,,,,,
 Meeker County,Minnesota,54,,,,
 Meigs County,Ohio,,,,,
@@ -1942,11 +1942,11 @@ Mendocino County,California,1120,,,,
 Menifee County,Kentucky,,,,,
 Menominee County,Michigan,,,,,
 Menominee County,Wisconsin,,,,,
-Merced County,California,11662,0.3117818555993826,0.17629909106499742,0.2394100497341794,0.2725090036014406
+Merced County,California,11662,31.18,17.63,23.94,27.25
 Mercer County,Illinois,,,,,
 Mercer County,Kentucky,,,,,
 Mercer County,Missouri,,,,,
-Mercer County,New Jersey,26159,,0.07118009098207118,0.08253373599908254,0.7844336557207844
+Mercer County,New Jersey,26159,,7.12,8.25,78.44
 Mercer County,North Dakota,32,,,,
 Mercer County,Ohio,,,,,
 Mercer County,Pennsylvania,456,,,,
@@ -1959,12 +1959,12 @@ Metcalfe County,Kentucky,,,,,
 Miami County,Indiana,,,,,
 Miami County,Kansas,,,,,
 Miami County,Ohio,959,,,,
-Miami-Dade County,Florida,32229,0.1520059573675882,0.15557417232926868,0.1853610102702535,0.5070588600328896
-Middlesex County,Connecticut,3086,,,,0.6085547634478289
-Middlesex County,Massachusetts,120099,0.10560454291875869,0.11717000141549888,0.098343866310294,0.6788815893554484
-Middlesex County,New Jersey,134885,0.0753901471623976,0.09201912740482633,0.10709122585906512,0.725499499573711
+Miami-Dade County,Florida,32229,15.2,15.56,18.54,50.71
+Middlesex County,Connecticut,3086,,,,60.86
+Middlesex County,Massachusetts,120099,10.56,11.72,9.83,67.89
+Middlesex County,New Jersey,134885,7.54,9.2,10.71,72.55
 Middlesex County,Virginia,,,,,
-Midland County,Michigan,1232,,,,0.7767857142857143
+Midland County,Michigan,1232,,,,77.68
 Midland County,Texas,1833,,,,
 Mifflin County,Pennsylvania,207,,,,
 Milam County,Texas,,,,,
@@ -1975,7 +1975,7 @@ Miller County,Georgia,,,,,
 Miller County,Missouri,,,,,
 Mills County,Iowa,,,,,
 Mills County,Texas,,,,,
-Milwaukee County,Wisconsin,23327,0.20855660822223174,0.18737943155999487,0.17636215544219144,0.42770180477558195
+Milwaukee County,Wisconsin,23327,20.86,18.74,17.64,42.77
 Miner County,South Dakota,,,,,
 Mineral County,Colorado,,,,,
 Mineral County,Montana,,,,,
@@ -1993,28 +1993,28 @@ Mitchell County,Iowa,,,,,
 Mitchell County,Kansas,,,,,
 Mitchell County,North Carolina,,,,,
 Mitchell County,Texas,,,,,
-Mobile County,Alabama,5298,0.26009815024537564,,,0.3744809362023405
+Mobile County,Alabama,5298,26.01,,,37.45
 Moca Municipio,Puerto Rico,,,,,
 Modoc County,California,,,,,
 Moffat County,Colorado,,,,,
 Mohave County,Arizona,1966,,,,
 Moniteau County,Missouri,,,,,
-Monmouth County,New Jersey,23728,0.07729265003371544,0.09747977073499663,0.14244774106540795,0.68277983816588
+Monmouth County,New Jersey,23728,7.73,9.75,14.24,68.28
 Mono County,California,,,,,
 Monona County,Iowa,,,,,
-Monongalia County,West Virginia,2001,,,,0.7831084457771115
+Monongalia County,West Virginia,2001,,,,78.31
 Monroe County,Alabama,,,,,
 Monroe County,Arkansas,,,,,
 Monroe County,Florida,715,,,,
 Monroe County,Georgia,163,,,,
 Monroe County,Illinois,,,,,
-Monroe County,Indiana,3975,,,,0.7640251572327044
+Monroe County,Indiana,3975,,,,76.4
 Monroe County,Iowa,,,,,
 Monroe County,Kentucky,,,,,
 Monroe County,Michigan,696,,,,
 Monroe County,Mississippi,,,,,
 Monroe County,Missouri,,,,,
-Monroe County,New York,16938,0.19872476089266738,0.12675640571496044,0.13454953359310426,0.5399692997992679
+Monroe County,New York,16938,19.87,12.68,13.45,54
 Monroe County,Ohio,,,,,
 Monroe County,Pennsylvania,2691,,,,
 Monroe County,Tennessee,,,,,
@@ -2022,9 +2022,9 @@ Monroe County,West Virginia,,,,,
 Monroe County,Wisconsin,221,,,,
 Montague County,Texas,,,,,
 Montcalm County,Michigan,204,,,,
-Monterey County,California,18723,0.13598248143994018,0.21903541099182824,0.28195267852374084,0.36302942904449076
+Monterey County,California,18723,13.6,21.9,28.2,36.3
 Montezuma County,Colorado,,,,,
-Montgomery County,Alabama,3736,,,,0.6314239828693791
+Montgomery County,Alabama,3736,,,,63.14
 Montgomery County,Arkansas,,,,,
 Montgomery County,Georgia,,,,,
 Montgomery County,Illinois,,,,,
@@ -2032,18 +2032,18 @@ Montgomery County,Indiana,,,,,
 Montgomery County,Iowa,,,,,
 Montgomery County,Kansas,254,,,,
 Montgomery County,Kentucky,,,,,
-Montgomery County,Maryland,112685,0.08087145582819363,0.10078537516084661,0.13862537161112837,0.6797177973998314
+Montgomery County,Maryland,112685,8.09,10.08,13.86,67.97
 Montgomery County,Mississippi,,,,,
 Montgomery County,Missouri,,,,,
 Montgomery County,New York,228,,,,
 Montgomery County,North Carolina,293,,,,
-Montgomery County,Ohio,7567,,0.14166776793973834,,0.571560724197172
-Montgomery County,Pennsylvania,41224,0.06767902192897342,0.12254997089074325,0.1250727731418591,0.6846982340384242
+Montgomery County,Ohio,7567,,14.17,,57.16
+Montgomery County,Pennsylvania,41224,6.77,12.25,12.51,68.47
 Montgomery County,Tennessee,2952,,,,
-Montgomery County,Texas,10192,,,0.20074568288854003,0.5987048665620094
-Montgomery County,Virginia,2834,,,,0.8641496118560339
+Montgomery County,Texas,10192,,,20.07,59.87
+Montgomery County,Virginia,2834,,,,86.41
 Montmorency County,Michigan,,,,,
-Montour County,Pennsylvania,422,,,,0.8341232227488151
+Montour County,Pennsylvania,422,,,,83.41
 Montrose County,Colorado,194,,,,
 Moody County,South Dakota,116,,,,
 Moore County,North Carolina,734,,,,
@@ -2065,7 +2065,7 @@ Morgan County,West Virginia,,,,,
 Morovis Municipio,Puerto Rico,,,,,
 Morrill County,Nebraska,,,,,
 Morris County,Kansas,,,,,
-Morris County,New Jersey,35377,0.06704921276535603,0.08318964298838229,0.09788845860304718,0.7518726856432145
+Morris County,New Jersey,35377,6.7,8.32,9.79,75.19
 Morris County,Texas,,,,,
 Morrison County,Minnesota,83,,,,
 Morrow County,Ohio,,,,,
@@ -2077,12 +2077,12 @@ Moultrie County,Illinois,,,,,
 Mountrail County,North Dakota,,,,,
 Mower County,Minnesota,578,,,,
 Muhlenberg County,Kentucky,,,,,
-Multnomah County,Oregon,40010,0.2245438640339915,0.17953011747063236,0.2192201949512622,0.37670582354411397
+Multnomah County,Oregon,40010,22.45,17.95,21.92,37.67
 Murray County,Georgia,,,,,
 Murray County,Minnesota,,,,,
 Murray County,Oklahoma,,,,,
 Muscatine County,Iowa,255,,,,
-Muscogee County,Georgia,3459,,,,0.5030355594102341
+Muscogee County,Georgia,3459,,,,50.3
 Muskegon County,Michigan,726,,,,
 Muskingum County,Ohio,,,,,
 Muskogee County,Oklahoma,336,,,,
@@ -2091,11 +2091,11 @@ Nacogdoches County,Texas,606,,,,
 Naguabo Municipio,Puerto Rico,,,,,
 Nance County,Nebraska,,,,,
 Nantucket County,Massachusetts,,,,,
-Napa County,California,7697,,,0.32856957256073793,0.45628166818240873
+Napa County,California,7697,,,32.86,45.63
 Naranjito Municipio,Puerto Rico,,,,,
 Nash County,North Carolina,593,,,,
 Nassau County,Florida,513,,,,
-Nassau County,New York,84312,0.08671363506974096,0.135437422905399,0.15545829775120978,0.6223906442736502
+Nassau County,New York,84312,8.67,13.54,15.55,62.24
 Natchitoches Parish,Louisiana,182,,,,
 Natrona County,Wyoming,467,,,,
 Navajo County,Arizona,446,,,,
@@ -2110,17 +2110,17 @@ Neshoba County,Mississippi,,,,,
 Ness County,Kansas,,,,,
 Nevada County,Arkansas,,,,,
 Nevada County,California,934,,,,
-New Castle County,Delaware,20773,0.07427911230924758,0.09035767582920137,0.10268136523371685,0.7326818466278342
+New Castle County,Delaware,20773,7.43,9.04,10.27,73.27
 New Hanover County,North Carolina,1787,,,,
-New Haven County,Connecticut,23003,0.09311828891883667,0.11963656914315524,0.12989610050862932,0.6573490414293788
+New Haven County,Connecticut,23003,9.31,11.96,12.99,65.73
 New Kent County,Virginia,,,,,
-New London County,Connecticut,8079,,0.22688451541032306,0.18294343359326648,0.43495482114123035
+New London County,Connecticut,8079,,22.69,18.29,43.5
 New Madrid County,Missouri,,,,,
-New York County,New York,157033,0.186209268115619,0.09363636942553476,0.0821356020709023,0.6380187603879439
+New York County,New York,157033,18.62,9.36,8.21,63.8
 Newaygo County,Michigan,,,,,
 Newberry County,South Carolina,,,,,
 Newport County,Rhode Island,1018,,,,
-Newport News city,Virginia,4220,,0.2514218009478673,,
+Newport News city,Virginia,4220,,25.14,,
 Newton County,Arkansas,,,,,
 Newton County,Georgia,614,,,,
 Newton County,Indiana,,,,,
@@ -2140,12 +2140,12 @@ Nobles County,Minnesota,815,,,,
 Nodaway County,Missouri,,,,,
 Nolan County,Texas,,,,,
 Nome Census Area,Alaska,111,,,,
-Norfolk city,Virginia,6096,,0.21833989501312337,0.2573818897637795,0.4325787401574803
-Norfolk County,Massachusetts,49871,0.16067454031401016,0.14318942872611337,0.11982915923081551,0.576306871729061
+Norfolk city,Virginia,6096,,21.83,25.74,43.26
+Norfolk County,Massachusetts,49871,16.07,14.32,11.98,57.63
 Norman County,Minnesota,36,,,,
 North Slope Borough,Alaska,417,,,,
 Northampton County,North Carolina,,,,,
-Northampton County,Pennsylvania,5332,,,,0.5673293323330832
+Northampton County,Pennsylvania,5332,,,,56.73
 Northampton County,Virginia,,,,,
 Northumberland County,Pennsylvania,286,,,,
 Northumberland County,Virginia,,,,,
@@ -2156,15 +2156,15 @@ Nottoway County,Virginia,,,,,
 Nowata County,Oklahoma,,,,,
 Noxubee County,Mississippi,,,,,
 Nuckolls County,Nebraska,,,,,
-Nueces County,Texas,4847,,,,0.4959768929234578
+Nueces County,Texas,4847,,,,49.6
 Nye County,Nevada,,,,,
 O'Brien County,Iowa,87,,,,
-Oakland County,Michigan,58198,0.04972679473521427,0.06127358328464896,0.10935083679851541,0.7796487851816214
+Oakland County,Michigan,58198,4.97,6.13,10.94,77.96
 Obion County,Tennessee,,,,,
-Ocean County,New Jersey,8076,,,0.20864289252105003,0.5698365527488856
+Ocean County,New Jersey,8076,,,20.86,56.98
 Oceana County,Michigan,,,,,
 Ochiltree County,Texas,,,,,
-Oconee County,Georgia,901,,,,0.6870144284128746
+Oconee County,Georgia,901,,,,68.7
 Oconee County,South Carolina,391,,,,
 Oconto County,Wisconsin,155,,,,
 Ogemaw County,Michigan,,,,,
@@ -2174,29 +2174,29 @@ Oglethorpe County,Georgia,,,,,
 Ohio County,Indiana,,,,,
 Ohio County,Kentucky,,,,,
 Ohio County,West Virginia,269,,,,
-Okaloosa County,Florida,4504,,0.28929840142095914,,0.3030639431616341
+Okaloosa County,Florida,4504,,28.93,,30.31
 Okanogan County,Washington,,,,,
 Okeechobee County,Florida,236,,,,
 Okfuskee County,Oklahoma,,,,,
-Oklahoma County,Oklahoma,17733,0.1867140359781199,0.1723340664298201,0.1986691479163142,0.44228274967574577
+Oklahoma County,Oklahoma,17733,18.67,17.23,19.87,44.23
 Okmulgee County,Oklahoma,,,,,
 Oktibbeha County,Mississippi,747,,,,
 Oldham County,Kentucky,433,,,,
 Oldham County,Texas,,,,,
 Oliver County,North Dakota,,,,,
-Olmsted County,Minnesota,5866,,,0.17064439140811455,0.5760313672008183
+Olmsted County,Minnesota,5866,,,17.06,57.6
 Oneida County,Idaho,,,,,
-Oneida County,New York,4839,0.45525935110560034,,,0.2523248605083695
+Oneida County,New York,4839,45.53,,,25.23
 Oneida County,Wisconsin,107,,,,
-Onondaga County,New York,10078,0.30849374875967456,0.13861877356618377,0.08950188529470134,0.4633855923794404
+Onondaga County,New York,10078,30.85,13.86,8.95,46.34
 Onslow County,North Carolina,2486,,,,
 Ontario County,New York,679,,,,
 Ontonagon County,Michigan,,,,,
-Orange County,California,448513,0.120252924664391,0.12907541141505374,0.21989106224345784,0.5307806016770974
-Orange County,Florida,46006,0.13411294179020128,0.1736295265834891,0.18391079424422901,0.5083467373820806
+Orange County,California,448513,12.03,12.91,21.99,53.08
+Orange County,Florida,46006,13.41,17.36,18.39,50.83
 Orange County,Indiana,,,,,
-Orange County,New York,6641,,,0.19861466646589368,0.5377202228580034
-Orange County,North Carolina,6388,,,,0.7421728240450846
+Orange County,New York,6641,,,19.86,53.77
+Orange County,North Carolina,6388,,,,74.22
 Orange County,Texas,662,,,,
 Orange County,Vermont,,,,,
 Orange County,Virginia,,,,,
@@ -2204,13 +2204,13 @@ Orangeburg County,South Carolina,537,,,,
 Oregon County,Missouri,,,,,
 Orleans County,New York,236,,,,
 Orleans County,Vermont,,,,,
-Orleans Parish,Louisiana,8339,0.26789782947595636,0.17100371747211895,0.17580045569013072,0.385297997361794
+Orleans Parish,Louisiana,8339,26.79,17.1,17.58,38.53
 Orocovis Municipio,Puerto Rico,,,,,
 Osage County,Kansas,,,,,
 Osage County,Missouri,,,,,
 Osage County,Oklahoma,,,,,
 Osborne County,Kansas,,,,,
-Osceola County,Florida,5987,,,,0.4334391180891933
+Osceola County,Florida,5987,,,,43.34
 Osceola County,Iowa,,,,,
 Osceola County,Michigan,,,,,
 Oscoda County,Michigan,,,,,
@@ -2221,14 +2221,14 @@ Otoe County,Nebraska,,,,,
 Otsego County,Michigan,,,,,
 Otsego County,New York,411,,,,
 Ottawa County,Kansas,,,,,
-Ottawa County,Michigan,4594,,,,0.30561602089682194
+Ottawa County,Michigan,4594,,,,30.56
 Ottawa County,Ohio,,,,,
 Ottawa County,Oklahoma,119,,,,
 Otter Tail County,Minnesota,224,,,,
 Ouachita County,Arkansas,,,,,
 Ouachita Parish,Louisiana,1044,,,,
 Ouray County,Colorado,,,,,
-Outagamie County,Wisconsin,3257,,,0.2130795210316242,0.3328216149831133
+Outagamie County,Wisconsin,3257,,,21.31,33.28
 Overton County,Tennessee,,,,,
 Owen County,Indiana,,,,,
 Owen County,Kentucky,,,,,
@@ -2236,11 +2236,11 @@ Owsley County,Kentucky,,,,,
 Owyhee County,Idaho,,,,,
 Oxford County,Maine,198,,,,
 Ozark County,Missouri,,,,,
-Ozaukee County,Wisconsin,1113,,,,0.605570530098832
+Ozaukee County,Wisconsin,1113,,,,60.56
 Pacific County,Washington,262,,,,
 Page County,Iowa,,,,,
 Page County,Virginia,,,,,
-Palm Beach County,Florida,26971,0.11964702828964444,0.16517741277668607,0.22724407697156204,0.48793148196210745
+Palm Beach County,Florida,26971,11.96,16.52,22.72,48.79
 Palo Alto County,Iowa,,,,,
 Palo Pinto County,Texas,,,,,
 Pamlico County,North Carolina,,,,,
@@ -2252,9 +2252,9 @@ Park County,Wyoming,,,,,
 Parke County,Indiana,,,,,
 Parker County,Texas,408,,,,
 Parmer County,Texas,,,,,
-Pasco County,Florida,8511,0.1534484784396663,,0.21254846669016567,0.49371401715427093
+Pasco County,Florida,8511,15.34,,21.25,49.37
 Pasquotank County,North Carolina,438,,,,
-Passaic County,New Jersey,18907,0.11847463902258423,0.17755328714232824,0.1495213413021632,0.5544507325329243
+Passaic County,New Jersey,18907,11.85,17.76,14.95,55.45
 Patillas Municipio,Puerto Rico,,,,,
 Patrick County,Virginia,,,,,
 Paulding County,Georgia,1183,,,,
@@ -2263,7 +2263,7 @@ Pawnee County,Kansas,,,,,
 Pawnee County,Nebraska,,,,,
 Pawnee County,Oklahoma,,,,,
 Payette County,Idaho,,,,,
-Payne County,Oklahoma,2005,,,,0.6783042394014963
+Payne County,Oklahoma,2005,,,,67.83
 Peach County,Georgia,,,,,
 Pearl River County,Mississippi,,,,,
 Pecos County,Texas,,,,,
@@ -2277,7 +2277,7 @@ Pennington County,Minnesota,,,,,
 Pennington County,South Dakota,799,,,,
 Penobscot County,Maine,1173,,,,
 Peñuelas Municipio,Puerto Rico,,,,,
-Peoria County,Illinois,4738,,,,0.7408189109328831
+Peoria County,Illinois,4738,,,,74.08
 Pepin County,Wisconsin,,,,,
 Perkins County,Nebraska,,,,,
 Perkins County,South Dakota,,,,,
@@ -2298,9 +2298,9 @@ Petersburg Borough,Alaska,,,,,
 Petersburg city,Virginia,329,,,,
 Petroleum County,Montana,,,,,
 Pettis County,Missouri,,,,,
-Phelps County,Missouri,865,,,,0.7734104046242775
+Phelps County,Missouri,865,,,,77.34
 Phelps County,Nebraska,,,,,
-Philadelphia County,Pennsylvania,75094,0.3049378112765334,0.19387700748395345,0.1317815005193491,0.36940368072016405
+Philadelphia County,Pennsylvania,75094,30.49,19.39,13.18,36.94
 Phillips County,Arkansas,,,,,
 Phillips County,Colorado,,,,,
 Phillips County,Kansas,,,,,
@@ -2314,7 +2314,7 @@ Pickett County,Tennessee,,,,,
 Pierce County,Georgia,,,,,
 Pierce County,Nebraska,,,,,
 Pierce County,North Dakota,,,,,
-Pierce County,Washington,37634,0.17667534676090768,0.23885316469150236,0.27685072009353245,0.3076207684540575
+Pierce County,Washington,37634,17.67,23.89,27.69,30.76
 Pierce County,Wisconsin,178,,,,
 Pike County,Alabama,346,,,,
 Pike County,Arkansas,,,,,
@@ -2326,10 +2326,10 @@ Pike County,Mississippi,136,,,,
 Pike County,Missouri,,,,,
 Pike County,Ohio,,,,,
 Pike County,Pennsylvania,,,,,
-Pima County,Arizona,18183,0.13105648132871364,0.1452455590386625,0.23049001814882034,0.49320794148380354
-Pinal County,Arizona,5170,,,0.33036750483558996,0.34990328820116057
+Pima County,Arizona,18183,13.11,14.52,23.05,49.32
+Pinal County,Arizona,5170,,,33.04,34.99
 Pine County,Minnesota,121,,,,
-Pinellas County,Florida,23533,0.16495984362384736,0.21433731355968214,0.21548463859261463,0.40521820422385585
+Pinellas County,Florida,23533,16.5,21.43,21.55,40.52
 Pipestone County,Minnesota,72,,,,
 Piscataquis County,Maine,,,,,
 Pitkin County,Colorado,,,,,
@@ -2337,23 +2337,23 @@ Pitt County,North Carolina,1914,,,,
 Pittsburg County,Oklahoma,124,,,,
 Pittsylvania County,Virginia,193,,,,
 Piute County,Utah,,,,,
-Placer County,California,18386,0.06717067333840966,0.12846731208528228,0.25492222343087134,0.5494397911454367
+Placer County,California,18386,6.72,12.85,25.49,54.94
 Plaquemines Parish,Louisiana,595,,,,
-Platte County,Missouri,1715,,,,0.5591836734693878
+Platte County,Missouri,1715,,,,55.92
 Platte County,Nebraska,,,,,
 Platte County,Wyoming,,,,,
 Pleasants County,West Virginia,,,,,
 Plumas County,California,,,,,
 Plymouth County,Iowa,,,,,
-Plymouth County,Massachusetts,4611,,,,0.49381912817176316
+Plymouth County,Massachusetts,4611,,,,49.38
 Pocahontas County,Iowa,,,,,
 Pocahontas County,West Virginia,,,,,
 Poinsett County,Arkansas,,,,,
 Pointe Coupee Parish,Louisiana,,,,,
 Polk County,Arkansas,,,,,
-Polk County,Florida,8393,,,0.22947694507327535,0.41582270940069105
+Polk County,Florida,8393,,,22.95,41.58
 Polk County,Georgia,,,,,
-Polk County,Iowa,12732,0.25534087338988376,0.18229657555765003,0.2022463085139805,0.36011624253848573
+Polk County,Iowa,12732,25.53,18.23,20.22,36.01
 Polk County,Minnesota,174,,,,
 Polk County,Missouri,,,,,
 Polk County,Nebraska,,,,,
@@ -2370,9 +2370,9 @@ Pope County,Arkansas,407,,,,
 Pope County,Illinois,,,,,
 Pope County,Minnesota,,,,,
 Poquoson city,Virginia,,,,,
-Portage County,Ohio,1673,,,,0.7274357441721458
+Portage County,Ohio,1673,,,,72.74
 Portage County,Wisconsin,808,,,,
-Porter County,Indiana,1460,,,,0.6582191780821918
+Porter County,Indiana,1460,,,,65.82
 Portsmouth city,Virginia,844,,,,
 Posey County,Indiana,,,,,
 Pottawatomie County,Kansas,156,,,,
@@ -2380,7 +2380,7 @@ Pottawatomie County,Oklahoma,350,,,,
 Pottawattamie County,Iowa,383,,,,
 Potter County,Pennsylvania,44,,,,
 Potter County,South Dakota,,,,,
-Potter County,Texas,3768,0.4394904458598726,,,
+Potter County,Texas,3768,43.95,,,
 Powder River County,Montana,,,,,
 Powell County,Kentucky,,,,,
 Powell County,Montana,,,,,
@@ -2398,13 +2398,13 @@ Preston County,West Virginia,,,,,
 Price County,Wisconsin,,,,,
 Prince Edward County,Virginia,,,,,
 Prince George County,Virginia,571,,,,
-Prince George's County,Maryland,27450,0.10444444444444445,0.1408014571948998,0.19096539162112933,0.5637887067395264
+Prince George's County,Maryland,27450,10.44,14.08,19.1,56.38
 Prince of Wales-Hyder Census Area,Alaska,49,,,,
-Prince William County,Virginia,25159,0.12448825470010731,0.19281370483723517,0.23419054811399498,0.4485074923486625
-Providence County,Rhode Island,16202,0.1794222935440069,0.1849771633131712,0.14985804221701024,0.4857425009258116
+Prince William County,Virginia,25159,12.45,19.28,23.42,44.85
+Providence County,Rhode Island,16202,17.94,18.5,14.99,48.57
 Prowers County,Colorado,,,,,
 Pueblo County,Colorado,973,,,,
-Pulaski County,Arkansas,5972,,,,0.6391493636972538
+Pulaski County,Arkansas,5972,,,,63.91
 Pulaski County,Georgia,,,,,
 Pulaski County,Illinois,,,,,
 Pulaski County,Indiana,,,,,
@@ -2424,16 +2424,16 @@ Putnam County,West Virginia,,,,,
 Quay County,New Mexico,,,,,
 Quebradillas Municipio,Puerto Rico,,,,,
 Queen Anne's County,Maryland,,,,,
-Queens County,New York,432439,0.2181833738400098,0.2270378018633842,0.18097118900006706,0.37380763529653893
+Queens County,New York,432439,21.82,22.7,18.1,37.38
 Quitman County,Georgia,,,,,
 Quitman County,Mississippi,,,,,
 Rabun County,Georgia,,,,,
-Racine County,Wisconsin,1735,,,,0.5878962536023055
+Racine County,Wisconsin,1735,,,,58.79
 Radford city,Virginia,,,,,
 Rains County,Texas,,,,,
 Raleigh County,West Virginia,663,,,,
 Ralls County,Missouri,,,,,
-Ramsey County,Minnesota,39666,0.312534664448142,0.18524681087077094,0.2051631119850754,0.2970554126960117
+Ramsey County,Minnesota,39666,31.25,18.52,20.52,29.71
 Ramsey County,North Dakota,,,,,
 Randall County,Texas,1216,,,,
 Randolph County,Alabama,,,,,
@@ -2461,7 +2461,7 @@ Redwood County,Minnesota,171,,,,
 Reeves County,Texas,,,,,
 Refugio County,Texas,,,,,
 Reno County,Kansas,255,,,,
-Rensselaer County,New York,2201,,,,0.69332121762835075
+Rensselaer County,New York,2201,,,,69.33
 Renville County,Minnesota,,,,,
 Renville County,North Dakota,,,,,
 Republic County,Kansas,,,,,
@@ -2475,15 +2475,15 @@ Richland County,Illinois,,,,,
 Richland County,Montana,,,,,
 Richland County,North Dakota,,,,,
 Richland County,Ohio,718,,,,
-Richland County,South Carolina,6687,,,,0.5241513384178257
+Richland County,South Carolina,6687,,,,52.42
 Richland County,Wisconsin,,,,,
 Richland Parish,Louisiana,,,,,
-Richmond city,Virginia,2450,,,,0.6506122448979592
-Richmond County,Georgia,2605,,,,0.5109404990403071
-Richmond County,New York,28868,0.17063876957184426,0.20410142718581128,0.18924068172370792,0.43601912151863653
+Richmond city,Virginia,2450,,,,65.06
+Richmond County,Georgia,2605,,,,51.09
+Richmond County,New York,28868,17.06,20.41,18.92,43.6
 Richmond County,North Carolina,,,,,
 Richmond County,Virginia,,,,,
-Riley County,Kansas,1880,,,,0.6670212765957447
+Riley County,Kansas,1880,,,,66.7
 Rincón Municipio,Puerto Rico,,,,,
 Ringgold County,Iowa,,,,,
 Rio Arriba County,New Mexico,,,,,
@@ -2493,7 +2493,7 @@ Río Grande Municipio,Puerto Rico,,,,,
 Ripley County,Indiana,,,,,
 Ripley County,Missouri,,,,,
 Ritchie County,West Virginia,,,,,
-Riverside County,California,103155,0.1045514032281518,0.1700159953468082,0.2806844069603994,0.4447481944646406
+Riverside County,California,103155,10.46,17,28.07,44.47
 Roane County,Tennessee,,,,,
 Roane County,West Virginia,,,,,
 Roanoke city,Virginia,1747,,,,
@@ -2503,19 +2503,19 @@ Roberts County,Texas,,,,,
 Robertson County,Kentucky,,,,,
 Robertson County,Tennessee,248,,,,
 Robertson County,Texas,,,,,
-Robeson County,North Carolina,526,,,,0.47718631178707227
+Robeson County,North Carolina,526,,,,47.72
 Rock County,Minnesota,51,,,,
 Rock County,Nebraska,,,,,
 Rock County,Wisconsin,1161,,,,
-Rock Island County,Illinois,2158,,,,0.5069508804448564
+Rock Island County,Illinois,2158,,,,50.7
 Rockbridge County,Virginia,,,,,
 Rockcastle County,Kentucky,,,,,
 Rockdale County,Georgia,1192,,,,
-Rockingham County,New Hampshire,4045,,,,0.5987639060568604
+Rockingham County,New Hampshire,4045,,,,59.88
 Rockingham County,North Carolina,353,,,,
 Rockingham County,Virginia,320,,,,
-Rockland County,New York,14611,0.10820614605434262,0.1124495243309835,0.17274656081034837,0.6065977688043255
-Rockwall County,Texas,1562,,,,0.6248399487836107
+Rockland County,New York,14611,10.82,11.24,17.27,60.66
+Rockwall County,Texas,1562,,,,62.48
 Roger Mills County,Oklahoma,,,,,
 Rogers County,Oklahoma,644,,,,
 Rolette County,North Dakota,,,,,
@@ -2539,15 +2539,15 @@ Russell County,Kansas,,,,,
 Russell County,Kentucky,,,,,
 Russell County,Virginia,,,,,
 Rutherford County,North Carolina,220,,,,
-Rutherford County,Tennessee,5989,,,,0.33210886625480046
+Rutherford County,Tennessee,5989,,,,33.21
 Rutland County,Vermont,393,,,,
 Sabana Grande Municipio,Puerto Rico,,,,,
 Sabine County,Texas,,,,,
 Sabine Parish,Louisiana,84,,,,
 Sac County,Iowa,,,,,
-Sacramento County,California,156779,0.19124372524381456,0.17583987651407396,0.24921067234769964,0.3837057258944119
+Sacramento County,California,156779,19.12,17.58,24.92,38.37
 Sagadahoc County,Maine,,,,,
-Saginaw County,Michigan,1587,,,,0.6540642722117203
+Saginaw County,Michigan,1587,,,,65.41
 Saguache County,Colorado,,,,,
 Salem city,Virginia,348,,,,
 Salem County,New Jersey,437,,,,
@@ -2557,25 +2557,25 @@ Saline County,Illinois,,,,,
 Saline County,Kansas,864,,,,
 Saline County,Missouri,,,,,
 Saline County,Nebraska,,,,,
-Salt Lake County,Utah,28983,0.14653417520615533,0.18562605665390056,0.17078977331539177,0.4970499948245523
+Salt Lake County,Utah,28983,14.65,18.56,17.08,49.7
 Saluda County,South Carolina,,,,,
 Sampson County,North Carolina,212,,,,
 San Augustine County,Texas,,,,,
 San Benito County,California,1167,,,,
-San Bernardino County,California,103990,0.1029618232522358,0.15513030099047986,0.2484565823636888,0.49345129339359556
-San Diego County,California,276411,0.11065406224788449,0.13862328199673674,0.25002984685848245,0.5006928088968963
-San Francisco County,California,236891,0.21375653781697068,0.15402442473542685,0.18782478017315982,0.44439425727444265
+San Bernardino County,California,103990,10.3,15.51,24.85,49.35
+San Diego County,California,276411,11.07,13.86,25,50.07
+San Francisco County,California,236891,21.38,15.4,18.78,44.44
 San Germán Municipio,Puerto Rico,,,,,
 San Jacinto County,Texas,,,,,
-San Joaquin County,California,70387,0.2157926889908648,0.20455481836134515,0.2826800403483598,0.2969724522994303
+San Joaquin County,California,70387,21.58,20.46,28.27,29.7
 San Juan County,Colorado,,,,,
 San Juan County,New Mexico,569,,,,
 San Juan County,Utah,,,,,
 San Juan County,Washington,155,,,,
 San Juan Municipio,Puerto Rico,,,,,
 San Lorenzo Municipio,Puerto Rico,,,,,
-San Luis Obispo County,California,5857,,,0.3192760799043879,0.45723066416254055
-San Mateo County,California,159746,0.0791569115971605,0.11140811037522066,0.22485070048702316,0.5845842775405957
+San Luis Obispo County,California,5857,,,31.93,45.72
+San Mateo County,California,159746,7.92,11.14,22.49,58.46
 San Miguel County,Colorado,,,,,
 San Miguel County,New Mexico,,,,,
 San Patricio County,Texas,474,,,,
@@ -2585,24 +2585,24 @@ Sanborn County,South Dakota,,,,,
 Sanders County,Montana,,,,,
 Sandoval County,New Mexico,1370,,,,
 Sandusky County,Ohio,114,,,,
-Sangamon County,Illinois,2352,,,,0.6517857142857143
+Sangamon County,Illinois,2352,,,,65.18
 Sanilac County,Michigan,98,,,,
 Sanpete County,Utah,,,,,
-Santa Barbara County,California,13932,,0.18166810221073787,0.24554981337927073,0.48672121734137236
-Santa Clara County,California,482523,0.09846577261602038,0.100154811273245,0.1660749850266205,0.6353044310841142
+Santa Barbara County,California,13932,,18.17,24.55,48.67
+Santa Clara County,California,482523,9.85,10.02,16.61,63.53
 Santa Cruz County,Arizona,,,,,
-Santa Cruz County,California,7521,,,0.24650977263661747,0.5391570269910916
-Santa Fe County,New Mexico,1528,,,,0.7761780104712042
+Santa Cruz County,California,7521,,,24.65,53.92
+Santa Fe County,New Mexico,1528,,,,77.62
 Santa Isabel Municipio,Puerto Rico,,,,,
 Santa Rosa County,Florida,2514,,,,
-Sarasota County,Florida,4907,,,,0.4165477888730385
-Saratoga County,New York,4102,,,,0.7450024378352024
+Sarasota County,Florida,4907,,,,41.65
+Saratoga County,New York,4102,,,,74.5
 Sargent County,North Dakota,,,,,
-Sarpy County,Nebraska,2855,,,,0.4591943957968476
+Sarpy County,Nebraska,2855,,,,45.92
 Sauk County,Wisconsin,238,,,,
 Saunders County,Nebraska,,,,,
 Sawyer County,Wisconsin,53,,,,
-Schenectady County,New York,4572,,,,0.5085301837270341
+Schenectady County,New York,4572,,,,50.85
 Schleicher County,Texas,,,,,
 Schley County,Georgia,,,,,
 Schoharie County,New York,174,,,,
@@ -2617,10 +2617,10 @@ Scotland County,North Carolina,,,,,
 Scott County,Arkansas,218,,,,
 Scott County,Illinois,,,,,
 Scott County,Indiana,,,,,
-Scott County,Iowa,2850,,,,0.5628070175438596
+Scott County,Iowa,2850,,,,56.28
 Scott County,Kansas,,,,,
 Scott County,Kentucky,336,,,,
-Scott County,Minnesota,5365,,,,0.3940354147250699
+Scott County,Minnesota,5365,,,,39.4
 Scott County,Mississippi,,,,,
 Scott County,Missouri,,,,,
 Scott County,Tennessee,,,,,
@@ -2631,8 +2631,8 @@ Scurry County,Texas,,,,,
 Searcy County,Arkansas,,,,,
 Sebastian County,Arkansas,3613,,,,
 Sedgwick County,Colorado,,,,,
-Sedgwick County,Kansas,14461,0.20648641172809626,0.2515040453633912,0.2062098056842542,0.3357997372242584
-Seminole County,Florida,13248,,,0.20365338164251207,0.5616696859903382
+Sedgwick County,Kansas,14461,20.65,25.15,20.62,33.58
+Seminole County,Florida,13248,,,20.37,56.17
 Seminole County,Georgia,,,,,
 Seminole County,Oklahoma,,,,,
 Seneca County,New York,,,,,
@@ -2651,15 +2651,15 @@ Sharp County,Arkansas,,,,,
 Shasta County,California,3013,,,,
 Shawano County,Wisconsin,,,,,
 Shawnee County,Kansas,1499,,,,
-Sheboygan County,Wisconsin,2932,,0.3461800818553888,,
-Shelby County,Alabama,2641,,,,0.48277167739492616
+Sheboygan County,Wisconsin,2932,,34.62,,
+Shelby County,Alabama,2641,,,,48.28
 Shelby County,Illinois,,,,,
 Shelby County,Indiana,236,,,,
 Shelby County,Iowa,,,,,
 Shelby County,Kentucky,232,,,,
 Shelby County,Missouri,,,,,
 Shelby County,Ohio,393,,,,
-Shelby County,Tennessee,16119,0.10149512997084187,0.1520565791922576,0.15137415472423849,0.595074136112662
+Shelby County,Tennessee,16119,10.15,15.21,15.14,59.51
 Shelby County,Texas,,,,,
 Shenandoah County,Virginia,282,,,,
 Sherburne County,Minnesota,525,,,,
@@ -2685,39 +2685,39 @@ Sioux County,Nebraska,,,,,
 Sioux County,North Dakota,,,,,
 Siskiyou County,California,428,,,,
 Sitka City and Borough,Alaska,429,,,,
-Skagit County,Washington,1565,,,,0.3092651757188498
+Skagit County,Washington,1565,,,,30.93
 Skagway Municipality,Alaska,,,,,
 Skamania County,Washington,,,,,
 Slope County,North Dakota,,,,,
 Smith County,Kansas,,,,,
 Smith County,Mississippi,,,,,
 Smith County,Tennessee,,,,,
-Smith County,Texas,2162,,,,0.6281221091581869
+Smith County,Texas,2162,,,,62.81
 Smyth County,Virginia,,,,,
-Snohomish County,Washington,54637,0.10961436389260025,0.15116130094990574,0.2616358877683621,0.4775884473891319
+Snohomish County,Washington,54637,10.96,15.12,26.16,47.76
 Snyder County,Pennsylvania,209,,,,
 Socorro County,New Mexico,,,,,
-Solano County,California,49246,0.10010965357592495,0.1714860090159607,0.3402306786337977,0.3881736587743167
+Solano County,California,49246,10.01,17.15,34.02,38.82
 Somerset County,Maine,,,,,
 Somerset County,Maryland,188,,,,
-Somerset County,New Jersey,38855,0.044704671213486036,0.06992665036674817,0.089924076695406,0.7954446017243598
+Somerset County,New Jersey,38855,4.47,6.99,8.99,79.54
 Somerset County,Pennsylvania,246,,,,
 Somervell County,Texas,,,,,
-Sonoma County,California,14780,0.12658998646820027,0.17543978349120434,0.27043301759133964,0.42753721244925574
+Sonoma County,California,14780,12.66,17.54,27.04,42.75
 Southampton County,Virginia,,,,,
 Southeast Fairbanks Census Area,Alaska,,,,,
 Spalding County,Georgia,454,,,,
-Spartanburg County,South Carolina,4232,,,,0.3305765595463138
+Spartanburg County,South Carolina,4232,,,,33.06
 Spencer County,Indiana,,,,,
 Spencer County,Kentucky,,,,,
 Spink County,South Dakota,,,,,
-Spokane County,Washington,7516,0.21287919105907396,0.1935870143693454,0.2692921766897286,0.3242416178818521
-Spotsylvania County,Virginia,2284,,,,0.37959719789842383
+Spokane County,Washington,7516,21.29,19.36,26.93,32.42
+Spotsylvania County,Virginia,2284,,,,37.96
 St. Bernard Parish,Louisiana,732,,,,
-St. Charles County,Missouri,6290,,,,0.6745627980922099
+St. Charles County,Missouri,6290,,,,67.46
 St. Charles Parish,Louisiana,319,,,,
 St. Clair County,Alabama,499,,,,
-St. Clair County,Illinois,2658,,,,0.4398043641835967
+St. Clair County,Illinois,2658,,,,43.98
 St. Clair County,Michigan,729,,,,
 St. Clair County,Missouri,,,,,
 St. Croix County,Wisconsin,457,,,,
@@ -2726,29 +2726,29 @@ St. Francois County,Missouri,318,,,,
 St. Helena Parish,Louisiana,,,,,
 St. James Parish,Louisiana,,,,,
 St. John the Baptist Parish,Louisiana,254,,,,
-St. Johns County,Florida,4327,,,,0.6533394961867345
-St. Joseph County,Indiana,3645,,,,0.6762688614540466
+St. Johns County,Florida,4327,,,,65.33
+St. Joseph County,Indiana,3645,,,,67.63
 St. Joseph County,Michigan,237,,,,
 St. Landry Parish,Louisiana,,,,,
 St. Lawrence County,New York,795,,,,
-St. Louis city,Missouri,6927,0.18247437563158656,,,0.5511765555074347
+St. Louis city,Missouri,6927,18.25,,,55.12
 St. Louis County,Minnesota,1227,,,,
-St. Louis County,Missouri,26992,0.09306461173681091,0.09573206876111441,0.11447836395969176,0.6967249555423829
+St. Louis County,Missouri,26992,9.31,9.57,11.45,69.67
 St. Lucie County,Florida,4e3,,,,
 St. Martin Parish,Louisiana,295,,,,
 St. Mary Parish,Louisiana,588,,,,
-St. Mary's County,Maryland,2247,,,,0.527369826435247
-St. Tammany Parish,Louisiana,2610,,,,0.5306513409961686
+St. Mary's County,Maryland,2247,,,,52.74
+St. Tammany Parish,Louisiana,2610,,,,53.07
 Stafford County,Kansas,,,,,
-Stafford County,Virginia,3184,,,,0.48932160804020103
-Stanislaus County,California,19972,0.21655317444422192,0.2003304626477068,0.27848988584017625,0.30462647706789503
+Stafford County,Virginia,3184,,,,48.93
+Stanislaus County,California,19972,21.66,20.03,27.85,30.46
 Stanley County,South Dakota,,,,,
 Stanly County,North Carolina,697,,,,
 Stanton County,Kansas,,,,,
 Stanton County,Nebraska,,,,,
 Stark County,Illinois,,,,,
 Stark County,North Dakota,,,,,
-Stark County,Ohio,2165,,,,0.5889145496535797
+Stark County,Ohio,2165,,,,58.89
 Starke County,Indiana,,,,,
 Starr County,Texas,,,,,
 Staunton city,Virginia,,,,,
@@ -2762,7 +2762,7 @@ Stephens County,Texas,,,,,
 Stephenson County,Illinois,201,,,,
 Sterling County,Texas,,,,,
 Steuben County,Indiana,,,,,
-Steuben County,New York,1028,,,,0.7791828793774319
+Steuben County,New York,1028,,,,77.92
 Stevens County,Kansas,,,,,
 Stevens County,Minnesota,,,,,
 Stevens County,Washington,245,,,,
@@ -2776,13 +2776,13 @@ Stone County,Mississippi,,,,,
 Stone County,Missouri,,,,,
 Stonewall County,Texas,,,,,
 Storey County,Nevada,,,,,
-Story County,Iowa,3205,,,,0.8414976599063962
-Strafford County,New Hampshire,2575,,,,0.5040776699029126
+Story County,Iowa,3205,,,,84.15
+Strafford County,New Hampshire,2575,,,,50.41
 Stutsman County,North Dakota,,,,,
 Sublette County,Wyoming,,,,,
 Suffolk city,Virginia,1027,,,,
-Suffolk County,Massachusetts,46158,0.2320074526625937,0.1764374539624767,0.09749122578967893,0.49406386758525067
-Suffolk County,New York,38386,0.09190850831032148,0.14354191632365967,0.1817589746261658,0.5827906007398531
+Suffolk County,Massachusetts,46158,23.2,17.64,9.75,49.41
+Suffolk County,New York,38386,9.19,14.35,18.18,58.28
 Sullivan County,Indiana,,,,,
 Sullivan County,Missouri,,,,,
 Sullivan County,New Hampshire,228,,,,
@@ -2792,7 +2792,7 @@ Sullivan County,Tennessee,594,,,,
 Sully County,South Dakota,,,,,
 Summers County,West Virginia,,,,,
 Summit County,Colorado,,,,,
-Summit County,Ohio,10489,0.2611307083611402,0.2151778053198589,,0.4109066641243207
+Summit County,Ohio,10489,26.11,21.52,,41.09
 Summit County,Utah,446,,,,
 Sumner County,Kansas,,,,,
 Sumner County,Tennessee,1599,,,,
@@ -2804,10 +2804,10 @@ Sunflower County,Mississippi,,,,,
 Surry County,North Carolina,267,,,,
 Surry County,Virginia,,,,,
 Susquehanna County,Pennsylvania,140,,,,
-Sussex County,Delaware,1814,,,,0.4862183020948181
-Sussex County,New Jersey,2034,,,,0.6111111111111112
+Sussex County,Delaware,1814,,,,48.62
+Sussex County,New Jersey,2034,,,,61.11
 Sussex County,Virginia,,,,,
-Sutter County,California,10164,0.31493506493506496,0.2563951200314837,0.2074970484061393,0.22117276662731208
+Sutter County,California,10164,31.49,25.64,20.75,22.12
 Sutton County,Texas,,,,,
 Suwannee County,Florida,,,,,
 Swain County,North Carolina,,,,,
@@ -2826,7 +2826,7 @@ Tama County,Iowa,,,,,
 Taney County,Missouri,380,,,,
 Tangipahoa Parish,Louisiana,483,,,,
 Taos County,New Mexico,,,,,
-Tarrant County,Texas,68234,0.1717472227921564,0.1820646598469971,0.21221092124160976,0.43397719611923674
+Tarrant County,Texas,68234,17.17,18.21,21.22,43.4
 Tate County,Mississippi,,,,,
 Tattnall County,Georgia,,,,,
 Taylor County,Florida,,,,,
@@ -2857,14 +2857,14 @@ Thomas County,Kansas,,,,,
 Thomas County,Nebraska,,,,,
 Throckmorton County,Texas,,,,,
 Thurston County,Nebraska,,,,,
-Thurston County,Washington,10680,0.15833333333333333,0.19812734082397004,0.29044943820224717,0.35308988764044946
+Thurston County,Washington,10680,15.83,19.81,29.04,35.31
 Tift County,Georgia,,,,,
 Tillamook County,Oregon,,,,,
 Tillman County,Oklahoma,,,,,
 Tioga County,New York,283,,,,
 Tioga County,Pennsylvania,150,,,,
 Tippah County,Mississippi,,,,,
-Tippecanoe County,Indiana,5935,,,,0.8390901432181971
+Tippecanoe County,Indiana,5935,,,,83.91
 Tipton County,Indiana,,,,,
 Tipton County,Tennessee,400,,,,
 Tishomingo County,Mississippi,,,,,
@@ -2874,9 +2874,9 @@ Toa Baja Municipio,Puerto Rico,,,,,
 Todd County,Kentucky,,,,,
 Todd County,Minnesota,,,,,
 Todd County,South Dakota,,,,,
-Tolland County,Connecticut,3318,,,,0.7507534659433394
+Tolland County,Connecticut,3318,,,,75.08
 Tom Green County,Texas,847,,,,
-Tompkins County,New York,4232,,,,0.8348298676748582
+Tompkins County,New York,4232,,,,83.48
 Tooele County,Utah,325,,,,
 Toole County,Montana,,,,,
 Toombs County,Georgia,182,,,,
@@ -2886,7 +2886,7 @@ Towns County,Georgia,,,,,
 Traill County,North Dakota,,,,,
 Transylvania County,North Carolina,,,,,
 Traverse County,Minnesota,,,,,
-Travis County,Texas,51414,0.08583265258489906,0.09369043451200063,0.13402964173182402,0.6864472711712764
+Travis County,Texas,51414,8.58,9.37,13.4,68.64
 Treasure County,Montana,,,,,
 Trego County,Kansas,,,,,
 Trempealeau County,Wisconsin,109,,,,
@@ -2901,13 +2901,13 @@ Trousdale County,Tennessee,,,,,
 Trujillo Alto Municipio,Puerto Rico,,,,,
 Trumbull County,Ohio,744,,,,
 Tucker County,West Virginia,,,,,
-Tulare County,California,10298,,0.19353272480093223,0.2825791415808895,0.2939405709846572
-Tulsa County,Oklahoma,12278,0.20483792148558397,0.2140413748167454,0.21062062225118097,0.37050008144648966
+Tulare County,California,10298,,19.35,28.26,29.39
+Tulsa County,Oklahoma,12278,20.48,21.4,21.06,37.05
 Tunica County,Mississippi,,,,,
 Tuolumne County,California,430,,,,
 Turner County,Georgia,,,,,
 Turner County,South Dakota,,,,,
-Tuscaloosa County,Alabama,1696,,,,0.74823113207547165
+Tuscaloosa County,Alabama,1696,,,,74.82
 Tuscarawas County,Ohio,,,,,
 Tuscola County,Michigan,119,,,,
 Twiggs County,Georgia,,,,,
@@ -2917,7 +2917,7 @@ Tyler County,West Virginia,,,,,
 Tyrrell County,North Carolina,,,,,
 Uinta County,Wyoming,,,,,
 Uintah County,Utah,,,,,
-Ulster County,New York,2286,,,,0.5345581802274716
+Ulster County,New York,2286,,,,53.46
 Umatilla County,Oregon,489,,,,
 Unicoi County,Tennessee,,,,,
 Union County,Arkansas,,,,,
@@ -2928,10 +2928,10 @@ Union County,Indiana,,,,,
 Union County,Iowa,,,,,
 Union County,Kentucky,,,,,
 Union County,Mississippi,,,,,
-Union County,New Jersey,20265,0.07836170737725141,0.11167036762891686,0.138613372810264,0.6713545521835678
+Union County,New Jersey,20265,7.84,11.17,13.86,67.14
 Union County,New Mexico,,,,,
-Union County,North Carolina,3473,,,,0.6055283616469911
-Union County,Ohio,1198,,,,0.8088480801335559
+Union County,North Carolina,3473,,,,60.55
+Union County,Ohio,1198,,,,80.88
 Union County,Oregon,,,,,
 Union County,Pennsylvania,,,,,
 Union County,South Carolina,,,,,
@@ -2942,7 +2942,7 @@ Upshur County,Texas,,,,,
 Upshur County,West Virginia,,,,,
 Upson County,Georgia,,,,,
 Upton County,Texas,,,,,
-Utah County,Utah,4756,,,0.2592514718250631,0.5542472666105971
+Utah County,Utah,4756,,,25.93,55.42
 Utuado Municipio,Puerto Rico,,,,,
 Uvalde County,Texas,,,,,
 Val Verde County,Texas,205,,,,
@@ -2962,21 +2962,21 @@ Vanderburgh County,Indiana,1482,,,,
 Vega Alta Municipio,Puerto Rico,,,,,
 Vega Baja Municipio,Puerto Rico,,,,,
 Venango County,Pennsylvania,149,,,,
-Ventura County,California,45187,0.060327085223626266,0.11574125301524775,0.22898178679708767,0.5949498749640383
+Ventura County,California,45187,6.03,11.57,22.9,59.49
 Vermilion County,Illinois,502,,,,
-Vermilion Parish,Louisiana,817,0.8078335373317014,,,
+Vermilion Parish,Louisiana,817,80.78,,,
 Vermillion County,Indiana,,,,,
 Vernon County,Missouri,,,,,
 Vernon County,Wisconsin,94,,,,
 Vernon Parish,Louisiana,691,,,,
 Victoria County,Texas,716,,,,
 Vieques Municipio,Puerto Rico,,,,,
-Vigo County,Indiana,1144,,,,0.673951048951049
+Vigo County,Indiana,1144,,,,67.4
 Vilas County,Wisconsin,,,,,
 Villalba Municipio,Puerto Rico,,,,,
 Vinton County,Ohio,,,,,
-Virginia Beach city,Virginia,21934,0.10226132944287408,0.15911370475061548,0.31932160116713776,0.4193033646393727
-Volusia County,Florida,6389,,,,0.439348880889028
+Virginia Beach city,Virginia,21934,10.23,15.91,31.93,41.93
+Volusia County,Florida,6389,,,,43.93
 Wabash County,Illinois,,,,,
 Wabash County,Indiana,,,,,
 Wabasha County,Minnesota,,,,,
@@ -2984,7 +2984,7 @@ Wabaunsee County,Kansas,,,,,
 Wadena County,Minnesota,,,,,
 Wagoner County,Oklahoma,605,,,,
 Wahkiakum County,Washington,,,,,
-Wake County,North Carolina,44595,0.08086108308106289,0.08801435138468439,0.10933961206413274,0.72178495347012
+Wake County,North Carolina,44595,8.09,8.8,10.93,72.18
 Wakulla County,Florida,,,,,
 Waldo County,Maine,,,,,
 Walker County,Alabama,171,,,,
@@ -3011,10 +3011,10 @@ Warren County,Iowa,,,,,
 Warren County,Kentucky,2157,,,,
 Warren County,Mississippi,,,,,
 Warren County,Missouri,,,,,
-Warren County,New Jersey,2011,,,,0.5624067628045748
+Warren County,New Jersey,2011,,,,56.24
 Warren County,New York,414,,,,
 Warren County,North Carolina,,,,,
-Warren County,Ohio,7283,,,,0.799395853357133
+Warren County,Ohio,7283,,,,79.94
 Warren County,Pennsylvania,123,,,,
 Warren County,Tennessee,166,,,,
 Warren County,Virginia,298,,,,
@@ -3025,7 +3025,7 @@ Waseca County,Minnesota,,,,,
 Washakie County,Wyoming,,,,,
 Washburn County,Wisconsin,,,,,
 Washington County,Alabama,,,,,
-Washington County,Arkansas,3037,,,,0.5472505762265394
+Washington County,Arkansas,3037,,,,54.73
 Washington County,Colorado,,,,,
 Washington County,Florida,,,,,
 Washington County,Georgia,,,,,
@@ -3037,18 +3037,18 @@ Washington County,Kansas,,,,,
 Washington County,Kentucky,,,,,
 Washington County,Maine,86,,,,
 Washington County,Maryland,1638,,,,
-Washington County,Minnesota,8041,,,0.1997264021887825,0.571695062803134
+Washington County,Minnesota,8041,,,19.97,57.17
 Washington County,Mississippi,258,,,,
 Washington County,Missouri,,,,,
 Washington County,Nebraska,,,,,
 Washington County,New York,236,,,,
 Washington County,North Carolina,,,,,
 Washington County,Ohio,,,,,
-Washington County,Oklahoma,658,,,,0.8905775075987842
-Washington County,Oregon,40243,0.0832939890167234,0.10232835524190542,0.1898218323683622,0.624555823373009
-Washington County,Pennsylvania,1287,,,,0.5376845376845377
+Washington County,Oklahoma,658,,,,89.06
+Washington County,Oregon,40243,8.33,10.23,18.98,62.46
+Washington County,Pennsylvania,1287,,,,53.77
 Washington County,Rhode Island,1502,,,,
-Washington County,Tennessee,1244,,,,0.817524115755627
+Washington County,Tennessee,1244,,,,81.75
 Washington County,Texas,418,,,,
 Washington County,Utah,782,,,,
 Washington County,Vermont,289,,,,
@@ -3056,11 +3056,11 @@ Washington County,Virginia,211,,,,
 Washington County,Wisconsin,945,,,,
 Washington Parish,Louisiana,,,,,
 Washita County,Oklahoma,,,,,
-Washoe County,Nevada,17621,0.11310368310538561,0.18716304409511378,0.27279950059587993,0.42693377220362067
-Washtenaw County,Michigan,18121,,,0.08846090171624083,0.8152971690304067
+Washoe County,Nevada,17621,11.31,18.72,27.28,42.69
+Washtenaw County,Michigan,18121,,,8.85,81.53
 Watauga County,North Carolina,,,,,
 Watonwan County,Minnesota,85,,,,
-Waukesha County,Wisconsin,8423,,,,0.7671850884482964
+Waukesha County,Wisconsin,8423,,,,76.72
 Waupaca County,Wisconsin,,,,,
 Waushara County,Wisconsin,82,,,,
 Wayne County,Georgia,,,,,
@@ -3068,7 +3068,7 @@ Wayne County,Illinois,,,,,
 Wayne County,Indiana,338,,,,
 Wayne County,Iowa,,,,,
 Wayne County,Kentucky,,,,,
-Wayne County,Michigan,36035,0.146496461773276,0.14294435965033994,0.14000277507978354,0.5705564034966005
+Wayne County,Michigan,36035,14.65,14.29,14,57.06
 Wayne County,Mississippi,,,,,
 Wayne County,Missouri,,,,,
 Wayne County,Nebraska,,,,,
@@ -3091,20 +3091,20 @@ Webster County,Missouri,78,,,,
 Webster County,Nebraska,,,,,
 Webster County,West Virginia,,,,,
 Webster Parish,Louisiana,,,,,
-Weld County,Colorado,2385,,,,0.4159329140461216
+Weld County,Colorado,2385,,,,41.59
 Wells County,Indiana,,,,,
 Wells County,North Dakota,,,,,
 West Baton Rouge Parish,Louisiana,,,,,
 West Carroll Parish,Louisiana,,,,,
 West Feliciana Parish,Louisiana,,,,,
-Westchester County,New York,41682,0.07763543016170049,0.09207811525358668,0.12729715464708988,0.7029892999376229
-Westmoreland County,Pennsylvania,1935,,,,0.6609819121447028
+Westchester County,New York,41682,7.76,9.21,12.73,70.3
+Westmoreland County,Pennsylvania,1935,,,,66.1
 Westmoreland County,Virginia,,,,,
 Weston County,Wyoming,,,,,
 Wetzel County,West Virginia,,,,,
 Wexford County,Michigan,168,,,,
 Wharton County,Texas,,,,,
-Whatcom County,Washington,5659,,,,0.40289803852270717
+Whatcom County,Washington,5659,,,,40.29
 Wheatland County,Montana,,,,,
 Wheeler County,Georgia,,,,,
 Wheeler County,Nebraska,,,,,
@@ -3120,7 +3120,7 @@ Whiteside County,Illinois,249,,,,
 Whitfield County,Georgia,886,,,,
 Whitley County,Indiana,,,,,
 Whitley County,Kentucky,,,,,
-Whitman County,Washington,1954,,,,0.8336745138178097
+Whitman County,Washington,1954,,,,83.37
 Wibaux County,Montana,,,,,
 Wichita County,Kansas,,,,,
 Wichita County,Texas,1666,,,,
@@ -3133,15 +3133,15 @@ Wilkes County,North Carolina,,,,,
 Wilkin County,Minnesota,,,,,
 Wilkinson County,Georgia,,,,,
 Wilkinson County,Mississippi,,,,,
-Will County,Illinois,23891,0.05772048051567536,0.11284584153028338,0.15905571135574065,0.6703779665983006
+Will County,Illinois,23891,5.77,11.28,15.91,67.04
 Willacy County,Texas,,,,,
 Williams County,North Dakota,,,,,
 Williams County,Ohio,144,,,,
 Williamsburg city,Virginia,,,,,
 Williamsburg County,South Carolina,,,,,
 Williamson County,Illinois,450,,,,
-Williamson County,Tennessee,5391,,,,0.8323131144500093
-Williamson County,Texas,20407,,0.0841867986475229,0.15146763365511834,0.7051011907678738
+Williamson County,Tennessee,5391,,,,83.23
+Williamson County,Texas,20407,,8.42,15.15,70.51
 Wilson County,Kansas,62,,,,
 Wilson County,North Carolina,,,,,
 Wilson County,Tennessee,1339,,,,
@@ -3152,9 +3152,9 @@ Windham County,Vermont,348,,,,
 Windsor County,Vermont,337,,,,
 Winkler County,Texas,,,,,
 Winn Parish,Louisiana,,,,,
-Winnebago County,Illinois,4825,,,0.20103626943005182,0.4111917098445596
+Winnebago County,Illinois,4825,,,20.1,41.12
 Winnebago County,Iowa,80,,,,
-Winnebago County,Wisconsin,2565,,,,0.38635477582846006
+Winnebago County,Wisconsin,2565,,,,38.64
 Winneshiek County,Iowa,,,,,
 Winona County,Minnesota,858,,,,
 Winston County,Alabama,,,,,
@@ -3163,7 +3163,7 @@ Wirt County,West Virginia,,,,,
 Wise County,Texas,223,,,,
 Wise County,Virginia,135,,,,
 Wolfe County,Kentucky,,,,,
-Wood County,Ohio,1403,,,,0.6657163221667854
+Wood County,Ohio,1403,,,,66.57
 Wood County,Texas,,,,,
 Wood County,West Virginia,,,,,
 Wood County,Wisconsin,869,,,,
@@ -3175,7 +3175,7 @@ Woods County,Oklahoma,,,,,
 Woodson County,Kansas,,,,,
 Woodward County,Oklahoma,,,,,
 Worcester County,Maryland,523,,,,
-Worcester County,Massachusetts,25216,0.15597239847715735,0.1498651649746193,0.12151015228426396,0.5726522842639594
+Worcester County,Massachusetts,25216,15.6,14.99,12.15,57.27
 Worth County,Georgia,,,,,
 Worth County,Iowa,,,,,
 Worth County,Missouri,,,,,
@@ -3184,7 +3184,7 @@ Wright County,Iowa,,,,,
 Wright County,Minnesota,990,,,,
 Wright County,Missouri,,,,,
 Wyandot County,Ohio,,,,,
-Wyandotte County,Kansas,3648,0.39610745614035087,,,
+Wyandotte County,Kansas,3648,39.61,,,
 Wyoming County,New York,91,,,,
 Wyoming County,Pennsylvania,,,,,
 Wyoming County,West Virginia,,,,,
@@ -3205,12 +3205,12 @@ Yell County,Arkansas,,,,,
 Yellow Medicine County,Minnesota,,,,,
 Yellowstone County,Montana,646,,,,
 Yoakum County,Texas,,,,,
-Yolo County,California,14063,0.1087250231102894,0.12152456801535945,0.19121097916518523,0.5785394297091659
+Yolo County,California,14063,10.87,12.15,19.12,57.85
 York County,Maine,1602,,,,
 York County,Nebraska,,,,,
-York County,Pennsylvania,4230,0.19621749408983452,,,0.3893617021276596
-York County,South Carolina,3115,,,,0.4404494382022472
-York County,Virginia,2406,,,,0.5382377389858687
+York County,Pennsylvania,4230,19.62,,,38.94
+York County,South Carolina,3115,,,,44.04
+York County,Virginia,2406,,,,53.82
 Young County,Texas,,,,,
 Yuba County,California,2753,,,,
 Yukon-Koyukuk Census Area,Alaska,31,,,,

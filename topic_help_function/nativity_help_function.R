@@ -43,7 +43,7 @@ nativity_total_updatter <- function(){
         summary_moe <= .25*summary_est ~summary_est,
         TRUE ~NA_real_)) %>% 
       mutate(prop = estimate / summary_est) %>% 
-      select(-estimate, -moe, -summary_est, -summary_moe, -est_moe)
+      select(-estimate, -moe,  -summary_moe, -est_moe)
     
     tbl_count <- tbl %>% select(-prop) %>% 
       mutate(estimate_type = "count") %>% 
@@ -63,7 +63,7 @@ nativity_total_updatter <- function(){
   
   #list of updates
   geo <- c("state", "county", "congressional district")
-  year <- c(2016,2016,2016)
+  year <- c(2017,2017,2017)
   argList <- list(geo, year)
   
 final <- pmap_dfr(argList, nativity_grabber)
